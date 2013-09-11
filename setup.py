@@ -19,9 +19,27 @@ class ExportJSON(Command):
         from scripts.export import export_genres
         dirname = os.path.dirname(__file__)
         export_genres(
-            source=os.path.join(dirname, 'src', 'genres.json'),
-            output=os.path.join(dirname, 'genres.json'),
+            source=os.path.join(dirname, 'src', 'paylogic_genres.json'),
+            output=os.path.join(dirname, 'paylogic_genres.json'),
         )
+
+kwargs = {}
+
+# Detect the "make" mode
+try:
+    import babel
+    babel
+    kwargs.setdefault('entry_points', {})
+
+    kwargs['entry_points']['babel.extractors'] = ['genres = scripts.extract:extract_genres']
+
+    kwargs['message_extractors'] = {
+        '': [
+            ('paylogic_genres.json', 'genres', None),
+        ],
+    }
+except ImportError:
+    pass
 
 
 setup(
@@ -31,10 +49,6 @@ setup(
     author='Paylogic',
     license='MIT license',
     version='0.1.0',
-    install_requires=[
-        'babel',
-        'transifex-client',
-    ],
     cmdclass={
         'export_json': ExportJSON,
     },
@@ -43,24 +57,15 @@ setup(
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
     ],
-    #tests_require=tests_require,
-    entry_points={
-        'babel.extractors': [
-            'genres = scripts.extract:extract_genres',
-        ],
-    },
     packages=['paylogic_genres'],
-    message_extractors={
-        '': [
-            ('paylogic_genres.json', 'genres', None),
-        ],
-    },
+    #tests_require=tests_require,
     package_data={
         '': [
             'locale/*/*/*',
         ]
     },
     data_files=[
-        ('paylogic_genres', ['genres.json']),
+        ('paylogic_genres', ['paylogic_genres.json']),
     ],
+    **kwargs
 )

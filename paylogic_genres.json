@@ -1,5 +1,6 @@
 {
     "SPORTS:RUGBY": {
+        "ecc": "02.06", 
         "name": {
             "fr": "SPORTS:RUGBY", 
             "en": "SPORTS:RUGBY", 
@@ -12,6 +13,7 @@
         "parent": "SPORTS"
     }, 
     "MUSIC:APRESSKI": {
+        "ecc": "01.01", 
         "name": {
             "fr": "MUSIC:APRESSKI", 
             "en": "MUSIC:APRESSKI", 
@@ -24,6 +26,7 @@
         "parent": "MUSIC"
     }, 
     "FAIR-CONGRESS": {
+        "ecc": "05", 
         "name": {
             "fr": "FAIR-CONGRESS", 
             "en": "FAIR-CONGRESS", 
@@ -35,6 +38,7 @@
         }
     }, 
     "SPORTS:BASEBALL": {
+        "ecc": "02.03", 
         "name": {
             "fr": "SPORTS:BASEBALL", 
             "en": "SPORTS:BASEBALL", 
@@ -47,6 +51,7 @@
         "parent": "SPORTS"
     }, 
     "CULTURE:CABARET": {
+        "ecc": "03.01", 
         "name": {
             "fr": "CULTURE:CABARET", 
             "en": "CULTURE:CABARET", 
@@ -59,6 +64,7 @@
         "parent": "CULTURE"
     }, 
     "MUSIC:HIPHOP-R&B": {
+        "ecc": "01.05", 
         "name": {
             "fr": "MUSIC:HIPHOP-R&B", 
             "en": "MUSIC:HIPHOP-R&B", 
@@ -71,6 +77,7 @@
         "parent": "MUSIC"
     }, 
     "FAIR-CONGRESS:BUSINESS": {
+        "ecc": "05.02", 
         "name": {
             "fr": "FAIR-CONGRESS:BUSINESS", 
             "en": "FAIR-CONGRESS:BUSINESS", 
@@ -83,6 +90,7 @@
         "parent": "FAIR-CONGRESS"
     }, 
     "CULTURE:MUSICAL": {
+        "ecc": "03.03", 
         "name": {
             "fr": "CULTURE:MUSICAL", 
             "en": "CULTURE:MUSICAL", 
@@ -95,6 +103,7 @@
         "parent": "CULTURE"
     }, 
     "MUSIC:JAZZ-BLUES-SOUL": {
+        "ecc": "01.07", 
         "name": {
             "fr": "MUSIC:JAZZ-BLUES-SOUL", 
             "en": "MUSIC:JAZZ-BLUES-SOUL", 
@@ -107,6 +116,7 @@
         "parent": "MUSIC"
     }, 
     "RECREATION": {
+        "ecc": "04", 
         "name": {
             "fr": "RECREATION", 
             "en": "RECREATION", 
@@ -118,6 +128,7 @@
         }
     }, 
     "MUSIC:HARDROCK-METAL": {
+        "ecc": "01.04", 
         "name": {
             "fr": "MUSIC:HARDROCK-METAL", 
             "en": "MUSIC:HARDROCK-METAL", 
@@ -130,6 +141,7 @@
         "parent": "MUSIC"
     }, 
     "SPORTS:MOTOR": {
+        "ecc": "02.05", 
         "name": {
             "fr": "SPORTS:MOTOR", 
             "en": "SPORTS:MOTOR", 
@@ -142,6 +154,7 @@
         "parent": "SPORTS"
     }, 
     "SPORTS:FOOTBALL": {
+        "ecc": "02.09", 
         "name": {
             "fr": "SPORTS:FOOTBALL", 
             "en": "SPORTS:FOOTBALL", 
@@ -154,6 +167,7 @@
         "parent": "SPORTS"
     }, 
     "MUSIC:70s": {
+        "ecc": "01.10", 
         "name": {
             "fr": "MUSIC:70s", 
             "en": "MUSIC:70s", 
@@ -166,6 +180,7 @@
         "parent": "MUSIC"
     }, 
     "SPORTS:TENNIS": {
+        "ecc": "02.08", 
         "name": {
             "fr": "SPORTS:TENNIS", 
             "en": "SPORTS:TENNIS", 
@@ -178,6 +193,7 @@
         "parent": "SPORTS"
     }, 
     "MUSIC:GAY": {
+        "ecc": "01.13", 
         "name": {
             "fr": "MUSIC:GAY", 
             "en": "MUSIC:GAY", 
@@ -190,6 +206,7 @@
         "parent": "MUSIC"
     }, 
     "MUSIC:80s": {
+        "ecc": "01.11", 
         "name": {
             "fr": "MUSIC:80s", 
             "en": "MUSIC:80s", 
@@ -202,6 +219,7 @@
         "parent": "MUSIC"
     }, 
     "CULTURE:OTHER": {
+        "ecc": "03.06", 
         "name": {
             "fr": "CULTURE:OTHER", 
             "en": "CULTURE:OTHER", 
@@ -214,6 +232,7 @@
         "parent": "CULTURE"
     }, 
     "CULTURE:THEATRE": {
+        "ecc": "03.05", 
         "name": {
             "fr": "CULTURE:THEATRE", 
             "en": "CULTURE:THEATRE", 
@@ -226,6 +245,7 @@
         "parent": "CULTURE"
     }, 
     "MUSIC:90s": {
+        "ecc": "01.12", 
         "name": {
             "fr": "MUSIC:90s", 
             "en": "MUSIC:90s", 
@@ -238,6 +258,7 @@
         "parent": "MUSIC"
     }, 
     "MUSIC:DANCE:ADE": {
+        "ecc": "01.02.18", 
         "name": {
             "fr": "MUSIC:DANCE:ADE", 
             "en": "MUSIC:DANCE:ADE", 
@@ -250,6 +271,7 @@
         "parent": "MUSIC:DANCE"
     }, 
     "RECREATION:AMUSEMENTPARK": {
+        "ecc": "04.01", 
         "name": {
             "fr": "RECREATION:AMUSEMENTPARK", 
             "en": "RECREATION:AMUSEMENTPARK", 
@@ -262,6 +284,7 @@
         "parent": "RECREATION"
     }, 
     "MUSIC:DUTCH": {
+        "ecc": "01.06", 
         "name": {
             "fr": "MUSIC:DUTCH", 
             "en": "MUSIC:DUTCH", 
@@ -274,6 +297,7 @@
         "parent": "MUSIC"
     }, 
     "SPORTS:KORFBALL": {
+        "ecc": "02.04", 
         "name": {
             "fr": "SPORTS:KORFBALL", 
             "en": "SPORTS:KORFBALL", 
@@ -286,6 +310,7 @@
         "parent": "SPORTS"
     }, 
     "SPORTS:ICESKATING": {
+        "ecc": "02.07", 
         "name": {
             "fr": "SPORTS:ICESKATING", 
             "en": "SPORTS:ICESKATING", 
@@ -298,6 +323,7 @@
         "parent": "SPORTS"
     }, 
     "CULTURE:CULINAIR": {
+        "ecc": "03.07", 
         "name": {
             "fr": "CULTURE:CULINAIR", 
             "en": "CULTURE:CULINAIR", 
@@ -310,6 +336,7 @@
         "parent": "CULTURE"
     }, 
     "MUSIC": {
+        "ecc": "01", 
         "name": {
             "fr": "MUSIC", 
             "en": "MUSIC", 
@@ -321,6 +348,7 @@
         }
     }, 
     "FAIR-CONGRESS:LEISURE-HOBBY": {
+        "ecc": "05.01", 
         "name": {
             "fr": "FAIR-CONGRESS:LEISURE-HOBBY", 
             "en": "FAIR-CONGRESS:LEISURE-HOBBY", 
@@ -333,6 +361,7 @@
         "parent": "FAIR-CONGRESS"
     }, 
     "RECREATION:MUSEUM": {
+        "ecc": "04.02", 
         "name": {
             "fr": "RECREATION:MUSEUM", 
             "en": "RECREATION:MUSEUM", 
@@ -345,6 +374,7 @@
         "parent": "RECREATION"
     }, 
     "TELEVISION": {
+        "ecc": "06", 
         "name": {
             "fr": "TELEVISION", 
             "en": "TELEVISION", 
@@ -356,6 +386,7 @@
         }
     }, 
     "MUSIC:OTHER": {
+        "ecc": "01.14", 
         "name": {
             "fr": "MUSIC:OTHER", 
             "en": "MUSIC:OTHER", 
@@ -368,6 +399,7 @@
         "parent": "MUSIC"
     }, 
     "MUSIC:CLASSICAL": {
+        "ecc": "01.08", 
         "name": {
             "fr": "MUSIC:CLASSICAL", 
             "en": "MUSIC:CLASSICAL", 
@@ -380,6 +412,7 @@
         "parent": "MUSIC"
     }, 
     "CULTURE:OPERA": {
+        "ecc": "03.04", 
         "name": {
             "fr": "CULTURE:OPERA", 
             "en": "CULTURE:OPERA", 
@@ -392,6 +425,7 @@
         "parent": "CULTURE"
     }, 
     "MUSIC:DANCE:URBAN": {
+        "ecc": "01.02.17", 
         "name": {
             "fr": "MUSIC:DANCE:URBAN", 
             "en": "MUSIC:DANCE:URBAN", 
@@ -404,6 +438,7 @@
         "parent": "MUSIC:DANCE"
     }, 
     "MUSIC:ROCK-POP": {
+        "ecc": "01.09", 
         "name": {
             "fr": "MUSIC:ROCK-POP", 
             "en": "MUSIC:ROCK-POP", 
@@ -416,6 +451,7 @@
         "parent": "MUSIC"
     }, 
     "SPORTS": {
+        "ecc": "02", 
         "name": {
             "fr": "SPORTS", 
             "en": "SPORTS", 
@@ -427,9 +463,10 @@
         }
     }, 
     "CULTURE": {
+        "ecc": "03", 
         "name": {
             "fr": "CULTURE", 
-            "en": "CULTURE", 
+            "en": "Culture", 
             "nl": "CULTURE", 
             "pt": "CULTURE", 
             "de": "CULTURE", 
@@ -438,6 +475,7 @@
         }
     }, 
     "MUSIC:FESTIVAL": {
+        "ecc": "01.03", 
         "name": {
             "fr": "MUSIC:FESTIVAL", 
             "en": "MUSIC:FESTIVAL", 
@@ -450,6 +488,7 @@
         "parent": "MUSIC"
     }, 
     "MUSIC:DANCE": {
+        "ecc": "01.02", 
         "name": {
             "fr": "MUSIC:DANCE", 
             "en": "MUSIC:DANCE", 
@@ -462,6 +501,7 @@
         "parent": "MUSIC"
     }, 
     "SPORTS:VOLLEYBALL": {
+        "ecc": "02.10", 
         "name": {
             "fr": "SPORTS:VOLLEYBALL", 
             "en": "SPORTS:VOLLEYBALL", 
@@ -474,6 +514,7 @@
         "parent": "SPORTS"
     }, 
     "SPORTS:OTHER": {
+        "ecc": "02.11", 
         "name": {
             "fr": "SPORTS:OTHER", 
             "en": "SPORTS:OTHER", 
@@ -486,6 +527,7 @@
         "parent": "SPORTS"
     }, 
     "SPORTS:HANDBALL": {
+        "ecc": "02.02", 
         "name": {
             "fr": "SPORTS:HANDBALL", 
             "en": "SPORTS:HANDBALL", 
@@ -498,6 +540,7 @@
         "parent": "SPORTS"
     }, 
     "CULTURE:CIRCUS": {
+        "ecc": "03.02", 
         "name": {
             "fr": "CULTURE:CIRCUS", 
             "en": "CULTURE:CIRCUS", 
@@ -510,6 +553,7 @@
         "parent": "CULTURE"
     }, 
     "RECREATION:OTHER": {
+        "ecc": "04.03", 
         "name": {
             "fr": "RECREATION:OTHER", 
             "en": "RECREATION:OTHER", 
@@ -522,6 +566,7 @@
         "parent": "RECREATION"
     }, 
     "SPORTS:BASKETBALL": {
+        "ecc": "02.01", 
         "name": {
             "fr": "SPORTS:BASKETBALL", 
             "en": "SPORTS:BASKETBALL", 
