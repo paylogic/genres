@@ -7,12 +7,12 @@ source_file = paylogic_genres/locale/paylogic_genres.pot
 
 source_lang = en
 
-trans.en = paylogic_genres/locale/en/LC_MESSAGES/paylogic_genres.po
-trans.de = paylogic_genres/locale/de/LC_MESSAGES/paylogic_genres.po
-trans.nl = paylogic_genres/locale/nl/LC_MESSAGES/paylogic_genres.po
-trans.fr = paylogic_genres/locale/fr/LC_MESSAGES/paylogic_genres.po
-trans.es = paylogic_genres/locale/es/LC_MESSAGES/paylogic_genres.po
-trans.tr = paylogic_genres/locale/es_ES/LC_MESSAGES/paylogic_genres.po
-trans.pt = paylogic_genres/locale/pt/LC_MESSAGES/paylogic_genres.po
+trans.en = paylogic_genres/locale/en/LC_MESSAGES/django.po
+trans.de = paylogic_genres/locale/de/LC_MESSAGES/django.po
+trans.nl = paylogic_genres/locale/nl/LC_MESSAGES/django.po
+trans.fr = paylogic_genres/locale/fr/LC_MESSAGES/django.po
+trans.es = paylogic_genres/locale/es/LC_MESSAGES/django.po
+trans.tr = paylogic_genres/locale/es_ES/LC_MESSAGES/django.po
+trans.pt = paylogic_genres/locale/pt/LC_MESSAGES/django.po
 
 type = PO
