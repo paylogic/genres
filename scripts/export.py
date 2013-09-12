@@ -31,7 +31,7 @@ def export_genres(source, output):
     # Generate the i18n genre names
     locale_dir = os.path.join(os.path.dirname(paylogic_genres.__file__), 'locale')
     for lang in paylogic_genres.get_supported_languages():
-        trans = support.Translations.load(locale_dir, locales=(lang, ), domain='paylogic_genres')
+        trans = support.Translations.load(locale_dir, locales=(lang, ), domain='django')
         for code, genre in result.iteritems():
             genre['name'][lang] = trans.gettext(code)
 

@@ -35,7 +35,7 @@ try:
 
     kwargs['message_extractors'] = {
         '': [
-            ('paylogic_genres.json', 'genres', None),
+            ('src/paylogic_genres.json', 'genres', None),
         ],
     }
 except ImportError:
@@ -62,10 +62,8 @@ setup(
     package_data={
         '': [
             'locale/*/*/*',
+            'paylogic_genres.json',
         ]
     },
-    data_files=[
-        ('paylogic_genres', ['paylogic_genres.json']),
-    ],
     **kwargs
 )

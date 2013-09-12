@@ -3,8 +3,8 @@
         "ecc": "02.06", 
         "name": {
             "fr": "SPORTS:RUGBY", 
-            "en": "SPORTS:RUGBY", 
-            "nl": "SPORTS:RUGBY", 
+            "en": "Rugby", 
+            "nl": "TEST", 
             "pt": "SPORTS:RUGBY", 
             "de": "SPORTS:RUGBY", 
             "tr": "SPORTS:RUGBY", 
@@ -16,7 +16,7 @@
         "ecc": "01.01", 
         "name": {
             "fr": "MUSIC:APRESSKI", 
-            "en": "MUSIC:APRESSKI", 
+            "en": "Apres-ski", 
             "nl": "MUSIC:APRESSKI", 
             "pt": "MUSIC:APRESSKI", 
             "de": "MUSIC:APRESSKI", 
@@ -41,7 +41,7 @@
         "ecc": "02.03", 
         "name": {
             "fr": "SPORTS:BASEBALL", 
-            "en": "SPORTS:BASEBALL", 
+            "en": "Baseball", 
             "nl": "SPORTS:BASEBALL", 
             "pt": "SPORTS:BASEBALL", 
             "de": "SPORTS:BASEBALL", 
@@ -54,7 +54,7 @@
         "ecc": "03.01", 
         "name": {
             "fr": "CULTURE:CABARET", 
-            "en": "CULTURE:CABARET", 
+            "en": "Cabaret", 
             "nl": "CULTURE:CABARET", 
             "pt": "CULTURE:CABARET", 
             "de": "CULTURE:CABARET", 
@@ -67,7 +67,7 @@
         "ecc": "01.05", 
         "name": {
             "fr": "MUSIC:HIPHOP-R&B", 
-            "en": "MUSIC:HIPHOP-R&B", 
+            "en": "Hip-Hop/R&B", 
             "nl": "MUSIC:HIPHOP-R&B", 
             "pt": "MUSIC:HIPHOP-R&B", 
             "de": "MUSIC:HIPHOP-R&B", 
@@ -80,7 +80,7 @@
         "ecc": "05.02", 
         "name": {
             "fr": "FAIR-CONGRESS:BUSINESS", 
-            "en": "FAIR-CONGRESS:BUSINESS", 
+            "en": "Business", 
             "nl": "FAIR-CONGRESS:BUSINESS", 
             "pt": "FAIR-CONGRESS:BUSINESS", 
             "de": "FAIR-CONGRESS:BUSINESS", 
@@ -93,7 +93,7 @@
         "ecc": "03.03", 
         "name": {
             "fr": "CULTURE:MUSICAL", 
-            "en": "CULTURE:MUSICAL", 
+            "en": "Musical", 
             "nl": "CULTURE:MUSICAL", 
             "pt": "CULTURE:MUSICAL", 
             "de": "CULTURE:MUSICAL", 
@@ -106,7 +106,7 @@
         "ecc": "01.07", 
         "name": {
             "fr": "MUSIC:JAZZ-BLUES-SOUL", 
-            "en": "MUSIC:JAZZ-BLUES-SOUL", 
+            "en": "Jazz/Blues/Soul", 
             "nl": "MUSIC:JAZZ-BLUES-SOUL", 
             "pt": "MUSIC:JAZZ-BLUES-SOUL", 
             "de": "MUSIC:JAZZ-BLUES-SOUL", 
@@ -119,7 +119,7 @@
         "ecc": "04", 
         "name": {
             "fr": "RECREATION", 
-            "en": "RECREATION", 
+            "en": "Recreation", 
             "nl": "RECREATION", 
             "pt": "RECREATION", 
             "de": "RECREATION", 
@@ -144,7 +144,7 @@
         "ecc": "02.05", 
         "name": {
             "fr": "SPORTS:MOTOR", 
-            "en": "SPORTS:MOTOR", 
+            "en": "Motor sports", 
             "nl": "SPORTS:MOTOR", 
             "pt": "SPORTS:MOTOR", 
             "de": "SPORTS:MOTOR", 
@@ -157,7 +157,7 @@
         "ecc": "02.09", 
         "name": {
             "fr": "SPORTS:FOOTBALL", 
-            "en": "SPORTS:FOOTBALL", 
+            "en": "Football", 
             "nl": "SPORTS:FOOTBALL", 
             "pt": "SPORTS:FOOTBALL", 
             "de": "SPORTS:FOOTBALL", 
@@ -170,7 +170,7 @@
         "ecc": "01.10", 
         "name": {
             "fr": "MUSIC:70s", 
-            "en": "MUSIC:70s", 
+            "en": "70s", 
             "nl": "MUSIC:70s", 
             "pt": "MUSIC:70s", 
             "de": "MUSIC:70s", 
@@ -196,7 +196,7 @@
         "ecc": "01.13", 
         "name": {
             "fr": "MUSIC:GAY", 
-            "en": "MUSIC:GAY", 
+            "en": "Gay", 
             "nl": "MUSIC:GAY", 
             "pt": "MUSIC:GAY", 
             "de": "MUSIC:GAY", 
@@ -209,7 +209,7 @@
         "ecc": "01.11", 
         "name": {
             "fr": "MUSIC:80s", 
-            "en": "MUSIC:80s", 
+            "en": "80s", 
             "nl": "MUSIC:80s", 
             "pt": "MUSIC:80s", 
             "de": "MUSIC:80s", 
@@ -364,7 +364,7 @@
         "ecc": "04.02", 
         "name": {
             "fr": "RECREATION:MUSEUM", 
-            "en": "RECREATION:MUSEUM", 
+            "en": "Museums", 
             "nl": "RECREATION:MUSEUM", 
             "pt": "RECREATION:MUSEUM", 
             "de": "RECREATION:MUSEUM", 
@@ -466,7 +466,7 @@
         "ecc": "03", 
         "name": {
             "fr": "CULTURE", 
-            "en": "CULTURE", 
+            "en": "Culture", 
             "nl": "CULTURE", 
             "pt": "CULTURE", 
             "de": "CULTURE", 
