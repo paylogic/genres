@@ -58,7 +58,6 @@ setup(
         'License :: OSI Approved :: MIT License',
     ],
     packages=['paylogic_genres'],
-    #tests_require=tests_require,
     package_data={
         '': [
             'locale/*/*/*',

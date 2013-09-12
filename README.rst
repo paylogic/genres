@@ -38,3 +38,21 @@ paylogic_genres.json:
 	    },
 	    ...
 	}
+
+
+Usage
+^^^^^
+
+You can include paylogic_genres.json to your project and lookup the genre names and traverse
+the hierarchy.
+
+
+Python
+^^^^^^
+
+Genre definitions can also be installed as python package.
+Django users can simply add it to INSTALLED_APPS and get names translation
+using gettext (Example: ugettext("SPORTS:RUGBY")).
+
+The genres json file is parsed in python and also avalable for use.
+
