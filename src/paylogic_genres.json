@@ -2,355 +2,265 @@
     "CULTURE": {
         "code": "CULTURE",
         "ecc": "03",
-        "name": {
-            "en": "Culture"
-        }
+        "name": "Culture"
     },
     "CULTURE:CABARET": {
         "code": "CULTURE:CABARET",
         "ecc": "03.01",
-        "name": {
-            "en": "Cabaret"
-        },
+        "name": "Cabaret",
         "parent": "CULTURE"
     },
     "CULTURE:CIRCUS": {
         "code": "CULTURE:CIRCUS",
         "ecc": "03.02",
-        "name": {
-            "en": "Circus"
-        },
+        "name": "Circus",
         "parent": "CULTURE"
     },
     "CULTURE:CULINAIR": {
         "code": "CULTURE:CULINAIR",
         "ecc": "03.07",
-        "name": {
-            "en": "Culinair"
-        },
+        "name": "Culinair",
         "parent": "CULTURE"
     },
     "CULTURE:MUSICAL": {
         "code": "CULTURE:MUSICAL",
         "ecc": "03.03",
-        "name": {
-            "en": "Musical"
-        },
+        "name": "Musical",
         "parent": "CULTURE"
     },
     "CULTURE:OPERA": {
         "code": "CULTURE:OPERA",
         "ecc": "03.04",
-        "name": {
-            "en": "Opera"
-        },
+        "name": "Opera",
         "parent": "CULTURE"
     },
     "CULTURE:OTHER": {
         "code": "CULTURE:OTHER",
         "ecc": "03.06",
-        "name": {
-            "en": "Other"
-        },
+        "name": "Other",
         "parent": "CULTURE"
     },
     "CULTURE:THEATRE": {
         "code": "CULTURE:THEATRE",
         "ecc": "03.05",
-        "name": {
-            "en": "Theatre"
-        },
+        "name": "Theatre",
         "parent": "CULTURE"
     },
     "FAIR-CONGRESS": {
         "code": "FAIR-CONGRESS",
         "ecc": "05",
-        "name": {
-            "en": "Fairs/Congresses"
-        }
+        "name": "Fairs/Congresses"
     },
     "FAIR-CONGRESS:BUSINESS": {
         "code": "FAIR-CONGRESS:BUSINESS",
         "ecc": "05.02",
-        "name": {
-            "en": "Business"
-        },
+        "name": "Business",
         "parent": "FAIR-CONGRESS"
     },
     "FAIR-CONGRESS:LEISURE-HOBBY": {
         "code": "FAIR-CONGRESS:LEISURE-HOBBY",
         "ecc": "05.01",
-        "name": {
-            "en": "Leisure:Hobby"
-        },
+        "name": "Leisure:Hobby",
         "parent": "FAIR-CONGRESS"
     },
     "MUSIC": {
         "code": "MUSIC",
         "ecc": "01",
-        "name": {
-            "en": "Music"
-        }
+        "name": "Music"
     },
     "MUSIC:70s": {
         "code": "MUSIC:70s",
         "ecc": "01.10",
-        "name": {
-            "en": "70s"
-        },
+        "name": "70s",
         "parent": "MUSIC"
     },
     "MUSIC:80s": {
         "code": "MUSIC:80s",
         "ecc": "01.11",
-        "name": {
-            "en": "80s"
-        },
+        "name": "80s",
         "parent": "MUSIC"
     },
     "MUSIC:90s": {
         "code": "MUSIC:90s",
         "ecc": "01.12",
-        "name": {
-            "en": "90s"
-        },
+        "name": "90s",
         "parent": "MUSIC"
     },
     "MUSIC:APRESSKI": {
         "code": "MUSIC:APRESSKI",
         "ecc": "01.01",
-        "name": {
-            "en": "Apres-ski"
-        },
+        "name": "Apres-ski",
         "parent": "MUSIC"
     },
     "MUSIC:CLASSICAL": {
         "code": "MUSIC:CLASSICAL",
         "ecc": "01.08",
-        "name": {
-            "en": "Classical"
-        },
+        "name": "Classical",
         "parent": "MUSIC"
     },
     "MUSIC:DANCE": {
         "code": "MUSIC:DANCE",
         "ecc": "01.02",
-        "name": {
-            "en": "Dance"
-        },
+        "name": "Dance",
         "parent": "MUSIC"
     },
     "MUSIC:DANCE:ADE": {
         "code": "MUSIC:DANCE:ADE",
         "ecc": "01.02.18",
-        "name": {
-            "en": "ADE"
-        },
+        "name": "ADE",
         "parent": "MUSIC:DANCE"
     },
     "MUSIC:DANCE:URBAN": {
         "code": "MUSIC:DANCE:URBAN",
         "ecc": "01.02.17",
-        "name": {
-            "en": "Urban"
-        },
+        "name": "Urban",
         "parent": "MUSIC:DANCE"
     },
     "MUSIC:DUTCH": {
         "code": "MUSIC:DUTCH",
         "ecc": "01.06",
-        "name": {
-            "en": "Dutch"
-        },
+        "name": "Dutch",
         "parent": "MUSIC"
     },
     "MUSIC:FESTIVAL": {
         "code": "MUSIC:FESTIVAL",
         "ecc": "01.03",
-        "name": {
-            "en": "Festival"
-        },
+        "name": "Festival",
         "parent": "MUSIC"
     },
     "MUSIC:GAY": {
         "code": "MUSIC:GAY",
         "ecc": "01.13",
-        "name": {
-            "en": "Gay"
-        },
+        "name": "Gay",
         "parent": "MUSIC"
     },
     "MUSIC:HARDROCK-METAL": {
         "code": "MUSIC:HARDROCK-METAL",
         "ecc": "01.04",
-        "name": {
-            "en": "Hard Rock/Metal"
-        },
+        "name": "Hard Rock/Metal",
         "parent": "MUSIC"
     },
     "MUSIC:HIPHOP-R&B": {
         "code": "MUSIC:HIPHOP-R&B",
         "ecc": "01.05",
-        "name": {
-            "en": "Hip-Hop/R&B"
-        },
+        "name": "Hip-Hop/R&B",
         "parent": "MUSIC"
     },
     "MUSIC:JAZZ-BLUES-SOUL": {
         "code": "MUSIC:JAZZ-BLUES-SOUL",
         "ecc": "01.07",
-        "name": {
-            "en": "Jazz/Blues/Soul"
-        },
+        "name": "Jazz/Blues/Soul",
         "parent": "MUSIC"
     },
     "MUSIC:OTHER": {
         "code": "MUSIC:OTHER",
         "ecc": "01.14",
-        "name": {
-            "en": "Other"
-        },
+        "name": "Other",
         "parent": "MUSIC"
     },
     "MUSIC:ROCK-POP": {
         "code": "MUSIC:ROCK-POP",
         "ecc": "01.09",
-        "name": {
-            "en": "Rock/Pop"
-        },
+        "name": "Rock/Pop",
         "parent": "MUSIC"
     },
     "RECREATION": {
         "code": "RECREATION",
         "ecc": "04",
-        "name": {
-            "en": "Recreation"
-        }
+        "name": "Recreation"
     },
     "RECREATION:AMUSEMENTPARK": {
         "code": "RECREATION:AMUSEMENTPARK",
         "ecc": "04.01",
-        "name": {
-            "en": "Amusement parks"
-        },
+        "name": "Amusement parks",
         "parent": "RECREATION"
     },
     "RECREATION:MUSEUM": {
         "code": "RECREATION:MUSEUM",
         "ecc": "04.02",
-        "name": {
-            "en": "Museums"
-        },
+        "name": "Museums",
         "parent": "RECREATION"
     },
     "RECREATION:OTHER": {
         "code": "RECREATION:OTHER",
         "ecc": "04.03",
-        "name": {
-            "en": "Other"
-        },
+        "name": "Other",
         "parent": "RECREATION"
     },
     "SPORTS": {
         "code": "SPORTS",
         "ecc": "02",
-        "name": {
-            "en": "Sports"
-        }
+        "name": "Sports"
     },
     "SPORTS:BASEBALL": {
         "code": "SPORTS:BASEBALL",
         "ecc": "02.03",
-        "name": {
-            "en": "Baseball"
-        },
+        "name": "Baseball",
         "parent": "SPORTS"
     },
     "SPORTS:BASKETBALL": {
         "code": "SPORTS:BASKETBALL",
         "ecc": "02.01",
-        "name": {
-            "en": "Basketball"
-        },
+        "name": "Basketball",
         "parent": "SPORTS"
     },
     "SPORTS:FOOTBALL": {
         "code": "SPORTS:FOOTBALL",
         "ecc": "02.09",
-        "name": {
-            "en": "Football"
-        },
+        "name": "Football",
         "parent": "SPORTS"
     },
     "SPORTS:HANDBALL": {
         "code": "SPORTS:HANDBALL",
         "ecc": "02.02",
-        "name": {
-            "en": "Handball"
-        },
+        "name": "Handball",
         "parent": "SPORTS"
     },
     "SPORTS:ICESKATING": {
         "code": "SPORTS:ICESKATING",
         "ecc": "02.07",
-        "name": {
-            "en": "Ice skating"
-        },
+        "name": "Ice skating",
         "parent": "SPORTS"
     },
     "SPORTS:KORFBALL": {
         "code": "SPORTS:KORFBALL",
         "ecc": "02.04",
-        "name": {
-            "en": "Korfball"
-        },
+        "name": "Korfball",
         "parent": "SPORTS"
     },
     "SPORTS:MOTOR": {
         "code": "SPORTS:MOTOR",
         "ecc": "02.05",
-        "name": {
-            "en": "Motor sports"
-        },
+        "name": "Motor sports",
         "parent": "SPORTS"
     },
     "SPORTS:OTHER": {
         "code": "SPORTS:OTHER",
         "ecc": "02.11",
-        "name": {
-            "en": "Other"
-        },
+        "name": "Other",
         "parent": "SPORTS"
     },
     "SPORTS:RUGBY": {
         "code": "SPORTS:RUGBY",
         "ecc": "02.06",
-        "name": {
-            "en": "Rugby"
-        },
+        "name": "Rugby",
         "parent": "SPORTS"
     },
     "SPORTS:TENNIS": {
         "code": "SPORTS:TENNIS",
         "ecc": "02.08",
-        "name": {
-            "en": "Tennis"
-        },
+        "name": "Tennis",
         "parent": "SPORTS"
     },
     "SPORTS:VOLLEYBALL": {
         "code": "SPORTS:VOLLEYBALL",
         "ecc": "02.10",
-        "name": {
-            "en": "Volleyball"
-        },
+        "name": "Volleyball",
         "parent": "SPORTS"
     },
     "TELEVISION": {
         "code": "TELEVISION",
         "ecc": "06",
-        "name": {
-            "en": "Television"
-        }
+        "name": "Television"
     }
 }
