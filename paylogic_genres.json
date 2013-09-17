@@ -2,579 +2,579 @@
     "SPORTS:RUGBY": {
         "ecc": "02.06", 
         "name": {
-            "fr": "SPORTS:RUGBY", 
+            "fr": "Rugby", 
             "en": "Rugby", 
-            "nl": "TEST", 
-            "pt": "SPORTS:RUGBY", 
-            "de": "SPORTS:RUGBY", 
-            "tr": "SPORTS:RUGBY", 
-            "es": "SPORTS:RUGBY"
+            "nl": "Rugby", 
+            "pt": "Rugby", 
+            "de": "Rugby", 
+            "tr": "Rugby", 
+            "es": "Rugby"
         }, 
         "parent": "SPORTS"
     }, 
     "MUSIC:APRESSKI": {
         "ecc": "01.01", 
         "name": {
-            "fr": "MUSIC:APRESSKI", 
+            "fr": "Apres-ski", 
             "en": "Apres-ski", 
-            "nl": "MUSIC:APRESSKI", 
-            "pt": "MUSIC:APRESSKI", 
-            "de": "MUSIC:APRESSKI", 
-            "tr": "MUSIC:APRESSKI", 
-            "es": "MUSIC:APRESSKI"
+            "nl": "Apres-ski", 
+            "pt": "Apres-ski", 
+            "de": "Apres-ski", 
+            "tr": "Apres-ski", 
+            "es": "Apres-ski"
         }, 
         "parent": "MUSIC"
     }, 
     "FAIR-CONGRESS": {
         "ecc": "05", 
         "name": {
-            "fr": "FAIR-CONGRESS", 
+            "fr": "Fairs/Congresses", 
             "en": "Fairs/Congresses", 
-            "nl": "FAIR-CONGRESS", 
-            "pt": "FAIR-CONGRESS", 
-            "de": "FAIR-CONGRESS", 
-            "tr": "FAIR-CONGRESS", 
-            "es": "FAIR-CONGRESS"
+            "nl": "Fairs/Congresses", 
+            "pt": "Fairs/Congresses", 
+            "de": "Fairs/Congresses", 
+            "tr": "Fairs/Congresses", 
+            "es": "Fairs/Congresses"
         }
     }, 
     "SPORTS:BASEBALL": {
         "ecc": "02.03", 
         "name": {
-            "fr": "SPORTS:BASEBALL", 
+            "fr": "Baseball", 
             "en": "Baseball", 
-            "nl": "SPORTS:BASEBALL", 
-            "pt": "SPORTS:BASEBALL", 
-            "de": "SPORTS:BASEBALL", 
-            "tr": "SPORTS:BASEBALL", 
-            "es": "SPORTS:BASEBALL"
+            "nl": "Baseball", 
+            "pt": "Baseball", 
+            "de": "Baseball", 
+            "tr": "Baseball", 
+            "es": "Baseball"
         }, 
         "parent": "SPORTS"
     }, 
     "CULTURE:CABARET": {
         "ecc": "03.01", 
         "name": {
-            "fr": "CULTURE:CABARET", 
+            "fr": "Cabaret", 
             "en": "Cabaret", 
-            "nl": "CULTURE:CABARET", 
-            "pt": "CULTURE:CABARET", 
-            "de": "CULTURE:CABARET", 
-            "tr": "CULTURE:CABARET", 
-            "es": "CULTURE:CABARET"
+            "nl": "Cabaret", 
+            "pt": "Cabaret", 
+            "de": "Cabaret", 
+            "tr": "Cabaret", 
+            "es": "Cabaret"
         }, 
         "parent": "CULTURE"
     }, 
     "MUSIC:HIPHOP-R&B": {
         "ecc": "01.05", 
         "name": {
-            "fr": "MUSIC:HIPHOP-R&B", 
+            "fr": "Hip-Hop/R&B", 
             "en": "Hip-Hop/R&B", 
-            "nl": "MUSIC:HIPHOP-R&B", 
-            "pt": "MUSIC:HIPHOP-R&B", 
-            "de": "MUSIC:HIPHOP-R&B", 
-            "tr": "MUSIC:HIPHOP-R&B", 
-            "es": "MUSIC:HIPHOP-R&B"
+            "nl": "Hip-Hop/R&B", 
+            "pt": "Hip-Hop/R&B", 
+            "de": "Hip-Hop/R&B", 
+            "tr": "Hip-Hop/R&B", 
+            "es": "Hip-Hop/R&B"
         }, 
         "parent": "MUSIC"
     }, 
     "FAIR-CONGRESS:BUSINESS": {
         "ecc": "05.02", 
         "name": {
-            "fr": "FAIR-CONGRESS:BUSINESS", 
+            "fr": "Business", 
             "en": "Business", 
-            "nl": "FAIR-CONGRESS:BUSINESS", 
-            "pt": "FAIR-CONGRESS:BUSINESS", 
-            "de": "FAIR-CONGRESS:BUSINESS", 
-            "tr": "FAIR-CONGRESS:BUSINESS", 
-            "es": "FAIR-CONGRESS:BUSINESS"
+            "nl": "Business", 
+            "pt": "Business", 
+            "de": "Business", 
+            "tr": "Business", 
+            "es": "Business"
         }, 
         "parent": "FAIR-CONGRESS"
     }, 
     "CULTURE:MUSICAL": {
         "ecc": "03.03", 
         "name": {
-            "fr": "CULTURE:MUSICAL", 
+            "fr": "Musical", 
             "en": "Musical", 
-            "nl": "CULTURE:MUSICAL", 
-            "pt": "CULTURE:MUSICAL", 
-            "de": "CULTURE:MUSICAL", 
-            "tr": "CULTURE:MUSICAL", 
-            "es": "CULTURE:MUSICAL"
+            "nl": "Musical", 
+            "pt": "Musical", 
+            "de": "Musical", 
+            "tr": "Musical", 
+            "es": "Musical"
         }, 
         "parent": "CULTURE"
     }, 
     "MUSIC:JAZZ-BLUES-SOUL": {
         "ecc": "01.07", 
         "name": {
-            "fr": "MUSIC:JAZZ-BLUES-SOUL", 
+            "fr": "Jazz/Blues/Soul", 
             "en": "Jazz/Blues/Soul", 
-            "nl": "MUSIC:JAZZ-BLUES-SOUL", 
-            "pt": "MUSIC:JAZZ-BLUES-SOUL", 
-            "de": "MUSIC:JAZZ-BLUES-SOUL", 
-            "tr": "MUSIC:JAZZ-BLUES-SOUL", 
-            "es": "MUSIC:JAZZ-BLUES-SOUL"
+            "nl": "Jazz/Blues/Soul", 
+            "pt": "Jazz/Blues/Soul", 
+            "de": "Jazz/Blues/Soul", 
+            "tr": "Jazz/Blues/Soul", 
+            "es": "Jazz/Blues/Soul"
         }, 
         "parent": "MUSIC"
     }, 
     "RECREATION": {
         "ecc": "04", 
         "name": {
-            "fr": "RECREATION", 
+            "fr": "Recreation", 
             "en": "Recreation", 
-            "nl": "RECREATION", 
-            "pt": "RECREATION", 
-            "de": "RECREATION", 
-            "tr": "RECREATION", 
-            "es": "RECREATION"
+            "nl": "Recreation", 
+            "pt": "Recreation", 
+            "de": "Recreation", 
+            "tr": "Recreation", 
+            "es": "Recreation"
         }
     }, 
     "MUSIC:HARDROCK-METAL": {
         "ecc": "01.04", 
         "name": {
-            "fr": "MUSIC:HARDROCK-METAL", 
+            "fr": "Hard Rock/Metal", 
             "en": "Hard Rock/Metal", 
-            "nl": "MUSIC:HARDROCK-METAL", 
-            "pt": "MUSIC:HARDROCK-METAL", 
-            "de": "MUSIC:HARDROCK-METAL", 
-            "tr": "MUSIC:HARDROCK-METAL", 
-            "es": "MUSIC:HARDROCK-METAL"
+            "nl": "Hard Rock/Metal", 
+            "pt": "Hard Rock/Metal", 
+            "de": "Hard Rock/Metal", 
+            "tr": "Hard Rock/Metal", 
+            "es": "Hard Rock/Metal"
         }, 
         "parent": "MUSIC"
     }, 
     "SPORTS:MOTOR": {
         "ecc": "02.05", 
         "name": {
-            "fr": "SPORTS:MOTOR", 
+            "fr": "Motor sports", 
             "en": "Motor sports", 
-            "nl": "SPORTS:MOTOR", 
-            "pt": "SPORTS:MOTOR", 
-            "de": "SPORTS:MOTOR", 
-            "tr": "SPORTS:MOTOR", 
-            "es": "SPORTS:MOTOR"
+            "nl": "Motor sports", 
+            "pt": "Motor sports", 
+            "de": "Motor sports", 
+            "tr": "Motor sports", 
+            "es": "Motor sports"
         }, 
         "parent": "SPORTS"
     }, 
     "SPORTS:FOOTBALL": {
         "ecc": "02.09", 
         "name": {
-            "fr": "SPORTS:FOOTBALL", 
+            "fr": "Football", 
             "en": "Football", 
-            "nl": "SPORTS:FOOTBALL", 
-            "pt": "SPORTS:FOOTBALL", 
-            "de": "SPORTS:FOOTBALL", 
-            "tr": "SPORTS:FOOTBALL", 
-            "es": "SPORTS:FOOTBALL"
+            "nl": "Football", 
+            "pt": "Football", 
+            "de": "Football", 
+            "tr": "Football", 
+            "es": "Football"
         }, 
         "parent": "SPORTS"
     }, 
     "MUSIC:70s": {
         "ecc": "01.10", 
         "name": {
-            "fr": "MUSIC:70s", 
+            "fr": "70s", 
             "en": "70s", 
-            "nl": "MUSIC:70s", 
-            "pt": "MUSIC:70s", 
-            "de": "MUSIC:70s", 
-            "tr": "MUSIC:70s", 
-            "es": "MUSIC:70s"
+            "nl": "70s", 
+            "pt": "70s", 
+            "de": "70s", 
+            "tr": "70s", 
+            "es": "70s"
         }, 
         "parent": "MUSIC"
     }, 
     "SPORTS:TENNIS": {
         "ecc": "02.08", 
         "name": {
-            "fr": "SPORTS:TENNIS", 
+            "fr": "Tennis", 
             "en": "Tennis", 
-            "nl": "SPORTS:TENNIS", 
-            "pt": "SPORTS:TENNIS", 
-            "de": "SPORTS:TENNIS", 
-            "tr": "SPORTS:TENNIS", 
-            "es": "SPORTS:TENNIS"
+            "nl": "Tennis", 
+            "pt": "Tennis", 
+            "de": "Tennis", 
+            "tr": "Tennis", 
+            "es": "Tennis"
         }, 
         "parent": "SPORTS"
     }, 
     "MUSIC:GAY": {
         "ecc": "01.13", 
         "name": {
-            "fr": "MUSIC:GAY", 
+            "fr": "Gay", 
             "en": "Gay", 
-            "nl": "MUSIC:GAY", 
-            "pt": "MUSIC:GAY", 
-            "de": "MUSIC:GAY", 
-            "tr": "MUSIC:GAY", 
-            "es": "MUSIC:GAY"
+            "nl": "Gay", 
+            "pt": "Gay", 
+            "de": "Gay", 
+            "tr": "Gay", 
+            "es": "Gay"
         }, 
         "parent": "MUSIC"
     }, 
     "MUSIC:80s": {
         "ecc": "01.11", 
         "name": {
-            "fr": "MUSIC:80s", 
+            "fr": "80s", 
             "en": "80s", 
-            "nl": "MUSIC:80s", 
-            "pt": "MUSIC:80s", 
-            "de": "MUSIC:80s", 
-            "tr": "MUSIC:80s", 
-            "es": "MUSIC:80s"
+            "nl": "80s", 
+            "pt": "80s", 
+            "de": "80s", 
+            "tr": "80s", 
+            "es": "80s"
         }, 
         "parent": "MUSIC"
     }, 
     "CULTURE:OTHER": {
         "ecc": "03.06", 
         "name": {
-            "fr": "CULTURE:OTHER", 
+            "fr": "Other", 
             "en": "Other", 
-            "nl": "CULTURE:OTHER", 
-            "pt": "CULTURE:OTHER", 
-            "de": "CULTURE:OTHER", 
-            "tr": "CULTURE:OTHER", 
-            "es": "CULTURE:OTHER"
+            "nl": "Other", 
+            "pt": "Other", 
+            "de": "Other", 
+            "tr": "Other", 
+            "es": "Other"
         }, 
         "parent": "CULTURE"
     }, 
     "CULTURE:THEATRE": {
         "ecc": "03.05", 
         "name": {
-            "fr": "CULTURE:THEATRE", 
+            "fr": "Theatre", 
             "en": "Theatre", 
-            "nl": "CULTURE:THEATRE", 
-            "pt": "CULTURE:THEATRE", 
-            "de": "CULTURE:THEATRE", 
-            "tr": "CULTURE:THEATRE", 
-            "es": "CULTURE:THEATRE"
+            "nl": "Theatre", 
+            "pt": "Theatre", 
+            "de": "Theatre", 
+            "tr": "Theatre", 
+            "es": "Theatre"
         }, 
         "parent": "CULTURE"
     }, 
     "MUSIC:90s": {
         "ecc": "01.12", 
         "name": {
-            "fr": "MUSIC:90s", 
+            "fr": "90s", 
             "en": "90s", 
-            "nl": "MUSIC:90s", 
-            "pt": "MUSIC:90s", 
-            "de": "MUSIC:90s", 
-            "tr": "MUSIC:90s", 
-            "es": "MUSIC:90s"
+            "nl": "90s", 
+            "pt": "90s", 
+            "de": "90s", 
+            "tr": "90s", 
+            "es": "90s"
         }, 
         "parent": "MUSIC"
     }, 
     "MUSIC:DANCE:ADE": {
         "ecc": "01.02.18", 
         "name": {
-            "fr": "MUSIC:DANCE:ADE", 
+            "fr": "ADE", 
             "en": "ADE", 
-            "nl": "MUSIC:DANCE:ADE", 
-            "pt": "MUSIC:DANCE:ADE", 
-            "de": "MUSIC:DANCE:ADE", 
-            "tr": "MUSIC:DANCE:ADE", 
-            "es": "MUSIC:DANCE:ADE"
+            "nl": "ADE", 
+            "pt": "ADE", 
+            "de": "ADE", 
+            "tr": "ADE", 
+            "es": "ADE"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
     "RECREATION:AMUSEMENTPARK": {
         "ecc": "04.01", 
         "name": {
-            "fr": "RECREATION:AMUSEMENTPARK", 
+            "fr": "Amusement parks", 
             "en": "Amusement parks", 
-            "nl": "RECREATION:AMUSEMENTPARK", 
-            "pt": "RECREATION:AMUSEMENTPARK", 
-            "de": "RECREATION:AMUSEMENTPARK", 
-            "tr": "RECREATION:AMUSEMENTPARK", 
-            "es": "RECREATION:AMUSEMENTPARK"
+            "nl": "Amusement parks", 
+            "pt": "Amusement parks", 
+            "de": "Amusement parks", 
+            "tr": "Amusement parks", 
+            "es": "Amusement parks"
         }, 
         "parent": "RECREATION"
     }, 
     "MUSIC:DUTCH": {
         "ecc": "01.06", 
         "name": {
-            "fr": "MUSIC:DUTCH", 
+            "fr": "Dutch", 
             "en": "Dutch", 
-            "nl": "MUSIC:DUTCH", 
-            "pt": "MUSIC:DUTCH", 
-            "de": "MUSIC:DUTCH", 
-            "tr": "MUSIC:DUTCH", 
-            "es": "MUSIC:DUTCH"
+            "nl": "Dutch", 
+            "pt": "Dutch", 
+            "de": "Dutch", 
+            "tr": "Dutch", 
+            "es": "Dutch"
         }, 
         "parent": "MUSIC"
     }, 
     "SPORTS:KORFBALL": {
         "ecc": "02.04", 
         "name": {
-            "fr": "SPORTS:KORFBALL", 
+            "fr": "Korfball", 
             "en": "Korfball", 
-            "nl": "SPORTS:KORFBALL", 
-            "pt": "SPORTS:KORFBALL", 
-            "de": "SPORTS:KORFBALL", 
-            "tr": "SPORTS:KORFBALL", 
-            "es": "SPORTS:KORFBALL"
+            "nl": "Korfball", 
+            "pt": "Korfball", 
+            "de": "Korfball", 
+            "tr": "Korfball", 
+            "es": "Korfball"
         }, 
         "parent": "SPORTS"
     }, 
     "SPORTS:ICESKATING": {
         "ecc": "02.07", 
         "name": {
-            "fr": "SPORTS:ICESKATING", 
+            "fr": "Ice skating", 
             "en": "Ice skating", 
-            "nl": "SPORTS:ICESKATING", 
-            "pt": "SPORTS:ICESKATING", 
-            "de": "SPORTS:ICESKATING", 
-            "tr": "SPORTS:ICESKATING", 
-            "es": "SPORTS:ICESKATING"
+            "nl": "Ice skating", 
+            "pt": "Ice skating", 
+            "de": "Ice skating", 
+            "tr": "Ice skating", 
+            "es": "Ice skating"
         }, 
         "parent": "SPORTS"
     }, 
     "CULTURE:CULINAIR": {
         "ecc": "03.07", 
         "name": {
-            "fr": "CULTURE:CULINAIR", 
+            "fr": "Culinair", 
             "en": "Culinair", 
-            "nl": "CULTURE:CULINAIR", 
-            "pt": "CULTURE:CULINAIR", 
-            "de": "CULTURE:CULINAIR", 
-            "tr": "CULTURE:CULINAIR", 
-            "es": "CULTURE:CULINAIR"
+            "nl": "Culinair", 
+            "pt": "Culinair", 
+            "de": "Culinair", 
+            "tr": "Culinair", 
+            "es": "Culinair"
         }, 
         "parent": "CULTURE"
     }, 
     "MUSIC": {
         "ecc": "01", 
         "name": {
-            "fr": "MUSIC", 
+            "fr": "Music", 
             "en": "Music", 
-            "nl": "MUSIC", 
-            "pt": "MUSIC", 
-            "de": "MUSIC", 
-            "tr": "MUSIC", 
-            "es": "MUSIC"
+            "nl": "Music", 
+            "pt": "Music", 
+            "de": "Music", 
+            "tr": "Music", 
+            "es": "Music"
         }
     }, 
     "FAIR-CONGRESS:LEISURE-HOBBY": {
         "ecc": "05.01", 
         "name": {
-            "fr": "FAIR-CONGRESS:LEISURE-HOBBY", 
+            "fr": "Leisure:Hobby", 
             "en": "Leisure:Hobby", 
-            "nl": "FAIR-CONGRESS:LEISURE-HOBBY", 
-            "pt": "FAIR-CONGRESS:LEISURE-HOBBY", 
-            "de": "FAIR-CONGRESS:LEISURE-HOBBY", 
-            "tr": "FAIR-CONGRESS:LEISURE-HOBBY", 
-            "es": "FAIR-CONGRESS:LEISURE-HOBBY"
+            "nl": "Leisure:Hobby", 
+            "pt": "Leisure:Hobby", 
+            "de": "Leisure:Hobby", 
+            "tr": "Leisure:Hobby", 
+            "es": "Leisure:Hobby"
         }, 
         "parent": "FAIR-CONGRESS"
     }, 
     "RECREATION:MUSEUM": {
         "ecc": "04.02", 
         "name": {
-            "fr": "RECREATION:MUSEUM", 
+            "fr": "Museums", 
             "en": "Museums", 
-            "nl": "RECREATION:MUSEUM", 
-            "pt": "RECREATION:MUSEUM", 
-            "de": "RECREATION:MUSEUM", 
-            "tr": "RECREATION:MUSEUM", 
-            "es": "RECREATION:MUSEUM"
+            "nl": "Museums", 
+            "pt": "Museums", 
+            "de": "Museums", 
+            "tr": "Museums", 
+            "es": "Museums"
         }, 
         "parent": "RECREATION"
     }, 
     "TELEVISION": {
         "ecc": "06", 
         "name": {
-            "fr": "TELEVISION", 
+            "fr": "Television", 
             "en": "Television", 
-            "nl": "TELEVISION", 
-            "pt": "TELEVISION", 
-            "de": "TELEVISION", 
-            "tr": "TELEVISION", 
-            "es": "TELEVISION"
+            "nl": "Television", 
+            "pt": "Television", 
+            "de": "Television", 
+            "tr": "Television", 
+            "es": "Television"
         }
     }, 
     "MUSIC:OTHER": {
         "ecc": "01.14", 
         "name": {
-            "fr": "MUSIC:OTHER", 
+            "fr": "Other", 
             "en": "Other", 
-            "nl": "MUSIC:OTHER", 
-            "pt": "MUSIC:OTHER", 
-            "de": "MUSIC:OTHER", 
-            "tr": "MUSIC:OTHER", 
-            "es": "MUSIC:OTHER"
+            "nl": "Other", 
+            "pt": "Other", 
+            "de": "Other", 
+            "tr": "Other", 
+            "es": "Other"
         }, 
         "parent": "MUSIC"
     }, 
     "MUSIC:CLASSICAL": {
         "ecc": "01.08", 
         "name": {
-            "fr": "MUSIC:CLASSICAL", 
+            "fr": "Classical", 
             "en": "Classical", 
-            "nl": "MUSIC:CLASSICAL", 
-            "pt": "MUSIC:CLASSICAL", 
-            "de": "MUSIC:CLASSICAL", 
-            "tr": "MUSIC:CLASSICAL", 
-            "es": "MUSIC:CLASSICAL"
+            "nl": "Classical", 
+            "pt": "Classical", 
+            "de": "Classical", 
+            "tr": "Classical", 
+            "es": "Classical"
         }, 
         "parent": "MUSIC"
     }, 
     "CULTURE:OPERA": {
         "ecc": "03.04", 
         "name": {
-            "fr": "CULTURE:OPERA", 
+            "fr": "Opera", 
             "en": "Opera", 
-            "nl": "CULTURE:OPERA", 
-            "pt": "CULTURE:OPERA", 
-            "de": "CULTURE:OPERA", 
-            "tr": "CULTURE:OPERA", 
-            "es": "CULTURE:OPERA"
+            "nl": "Opera", 
+            "pt": "Opera", 
+            "de": "Opera", 
+            "tr": "Opera", 
+            "es": "Opera"
         }, 
         "parent": "CULTURE"
     }, 
     "MUSIC:DANCE:URBAN": {
         "ecc": "01.02.17", 
         "name": {
-            "fr": "MUSIC:DANCE:URBAN", 
+            "fr": "Urban", 
             "en": "Urban", 
-            "nl": "MUSIC:DANCE:URBAN", 
-            "pt": "MUSIC:DANCE:URBAN", 
-            "de": "MUSIC:DANCE:URBAN", 
-            "tr": "MUSIC:DANCE:URBAN", 
-            "es": "MUSIC:DANCE:URBAN"
+            "nl": "Urban", 
+            "pt": "Urban", 
+            "de": "Urban", 
+            "tr": "Urban", 
+            "es": "Urban"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
     "MUSIC:ROCK-POP": {
         "ecc": "01.09", 
         "name": {
-            "fr": "MUSIC:ROCK-POP", 
+            "fr": "Rock/Pop", 
             "en": "Rock/Pop", 
-            "nl": "MUSIC:ROCK-POP", 
-            "pt": "MUSIC:ROCK-POP", 
-            "de": "MUSIC:ROCK-POP", 
-            "tr": "MUSIC:ROCK-POP", 
-            "es": "MUSIC:ROCK-POP"
+            "nl": "Rock/Pop", 
+            "pt": "Rock/Pop", 
+            "de": "Rock/Pop", 
+            "tr": "Rock/Pop", 
+            "es": "Rock/Pop"
         }, 
         "parent": "MUSIC"
     }, 
     "SPORTS": {
         "ecc": "02", 
         "name": {
-            "fr": "SPORTS", 
+            "fr": "Sports", 
             "en": "Sports", 
-            "nl": "SPORTS", 
-            "pt": "SPORTS", 
-            "de": "SPORTS", 
-            "tr": "SPORTS", 
-            "es": "SPORTS"
+            "nl": "Sports", 
+            "pt": "Sports", 
+            "de": "Sports", 
+            "tr": "Sports", 
+            "es": "Sports"
         }
     }, 
     "CULTURE": {
         "ecc": "03", 
         "name": {
-            "fr": "CULTURE", 
+            "fr": "Culture", 
             "en": "Culture", 
-            "nl": "CULTURE", 
-            "pt": "CULTURE", 
-            "de": "CULTURE", 
-            "tr": "CULTURE", 
-            "es": "CULTURE"
+            "nl": "Culture", 
+            "pt": "Culture", 
+            "de": "Culture", 
+            "tr": "Culture", 
+            "es": "Culture"
         }
     }, 
     "MUSIC:FESTIVAL": {
         "ecc": "01.03", 
         "name": {
-            "fr": "MUSIC:FESTIVAL", 
+            "fr": "Festival", 
             "en": "Festival", 
-            "nl": "MUSIC:FESTIVAL", 
-            "pt": "MUSIC:FESTIVAL", 
-            "de": "MUSIC:FESTIVAL", 
-            "tr": "MUSIC:FESTIVAL", 
-            "es": "MUSIC:FESTIVAL"
+            "nl": "Festival", 
+            "pt": "Festival", 
+            "de": "Festival", 
+            "tr": "Festival", 
+            "es": "Festival"
         }, 
         "parent": "MUSIC"
     }, 
     "MUSIC:DANCE": {
         "ecc": "01.02", 
         "name": {
-            "fr": "MUSIC:DANCE", 
+            "fr": "Dance", 
             "en": "Dance", 
-            "nl": "MUSIC:DANCE", 
-            "pt": "MUSIC:DANCE", 
-            "de": "MUSIC:DANCE", 
-            "tr": "MUSIC:DANCE", 
-            "es": "MUSIC:DANCE"
+            "nl": "Dance", 
+            "pt": "Dance", 
+            "de": "Dance", 
+            "tr": "Dance", 
+            "es": "Dance"
         }, 
         "parent": "MUSIC"
     }, 
     "SPORTS:VOLLEYBALL": {
         "ecc": "02.10", 
         "name": {
-            "fr": "SPORTS:VOLLEYBALL", 
+            "fr": "Volleyball", 
             "en": "Volleyball", 
-            "nl": "SPORTS:VOLLEYBALL", 
-            "pt": "SPORTS:VOLLEYBALL", 
-            "de": "SPORTS:VOLLEYBALL", 
-            "tr": "SPORTS:VOLLEYBALL", 
-            "es": "SPORTS:VOLLEYBALL"
+            "nl": "Volleyball", 
+            "pt": "Volleyball", 
+            "de": "Volleyball", 
+            "tr": "Volleyball", 
+            "es": "Volleyball"
         }, 
         "parent": "SPORTS"
     }, 
     "SPORTS:OTHER": {
         "ecc": "02.11", 
         "name": {
-            "fr": "SPORTS:OTHER", 
+            "fr": "Other", 
             "en": "Other", 
-            "nl": "SPORTS:OTHER", 
-            "pt": "SPORTS:OTHER", 
-            "de": "SPORTS:OTHER", 
-            "tr": "SPORTS:OTHER", 
-            "es": "SPORTS:OTHER"
+            "nl": "Other", 
+            "pt": "Other", 
+            "de": "Other", 
+            "tr": "Other", 
+            "es": "Other"
         }, 
         "parent": "SPORTS"
     }, 
     "SPORTS:HANDBALL": {
         "ecc": "02.02", 
         "name": {
-            "fr": "SPORTS:HANDBALL", 
+            "fr": "Handball", 
             "en": "Handball", 
-            "nl": "SPORTS:HANDBALL", 
-            "pt": "SPORTS:HANDBALL", 
-            "de": "SPORTS:HANDBALL", 
-            "tr": "SPORTS:HANDBALL", 
-            "es": "SPORTS:HANDBALL"
+            "nl": "Handball", 
+            "pt": "Handball", 
+            "de": "Handball", 
+            "tr": "Handball", 
+            "es": "Handball"
         }, 
         "parent": "SPORTS"
     }, 
     "CULTURE:CIRCUS": {
         "ecc": "03.02", 
         "name": {
-            "fr": "CULTURE:CIRCUS", 
+            "fr": "Circus", 
             "en": "Circus", 
-            "nl": "CULTURE:CIRCUS", 
-            "pt": "CULTURE:CIRCUS", 
-            "de": "CULTURE:CIRCUS", 
-            "tr": "CULTURE:CIRCUS", 
-            "es": "CULTURE:CIRCUS"
+            "nl": "Circus", 
+            "pt": "Circus", 
+            "de": "Circus", 
+            "tr": "Circus", 
+            "es": "Circus"
         }, 
         "parent": "CULTURE"
     }, 
     "RECREATION:OTHER": {
         "ecc": "04.03", 
         "name": {
-            "fr": "RECREATION:OTHER", 
+            "fr": "Other", 
             "en": "Other", 
-            "nl": "RECREATION:OTHER", 
-            "pt": "RECREATION:OTHER", 
-            "de": "RECREATION:OTHER", 
-            "tr": "RECREATION:OTHER", 
-            "es": "RECREATION:OTHER"
+            "nl": "Other", 
+            "pt": "Other", 
+            "de": "Other", 
+            "tr": "Other", 
+            "es": "Other"
         }, 
         "parent": "RECREATION"
     }, 
     "SPORTS:BASKETBALL": {
         "ecc": "02.01", 
         "name": {
-            "fr": "SPORTS:BASKETBALL", 
+            "fr": "Basketball", 
             "en": "Basketball", 
-            "nl": "SPORTS:BASKETBALL", 
-            "pt": "SPORTS:BASKETBALL", 
-            "de": "SPORTS:BASKETBALL", 
-            "tr": "SPORTS:BASKETBALL", 
-            "es": "SPORTS:BASKETBALL"
+            "nl": "Basketball", 
+            "pt": "Basketball", 
+            "de": "Basketball", 
+            "tr": "Basketball", 
+            "es": "Basketball"
         }, 
         "parent": "SPORTS"
     }

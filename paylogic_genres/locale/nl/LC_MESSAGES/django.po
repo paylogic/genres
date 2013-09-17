@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2013-09-12 21:28+0200\n"
+"POT-Creation-Date: 2013-09-17 11:06+0200\n"
 "PO-Revision-Date: 2013-09-11 16:29+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: nl <LL@li.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 #. Rugby
 #: src/paylogic_genres.json:0
 msgid "SPORTS:RUGBY"
-msgstr "TEST"
+msgstr ""
 
 #. Apres-ski
 #: src/paylogic_genres.json:1
