@@ -3,7 +3,7 @@ from bidict import bidict
 
 
 def _set_genre_cache():
-    genre_file = open('pta/genre/genres.json')
+    genre_file = open('paylogic_genres.json')
     genres = json.load(genre_file)
     genre_file.close()
     return genres, bidict([(genre_code, genres[genre_code]['ecc']) for genre_code in genres])
