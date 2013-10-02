@@ -64,5 +64,8 @@ setup(
             'paylogic_genres.json',
         ]
     },
+    install_requires=[
+        'bidict',
+    ],
     **kwargs
 )
