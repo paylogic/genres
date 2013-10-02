@@ -7,6 +7,6 @@ def get_supported_languages():
     """Get supported i18n languages."""
     basedir = os.path.join(os.path.dirname(__file__), 'locale')
     return [
-        name for name in os.listdir(basedir)
+        unicode(name) for name in os.listdir(basedir)
         if os.path.isdir(os.path.join(basedir, name))
     ]

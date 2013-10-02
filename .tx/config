@@ -6,6 +6,7 @@ file_filter = po/.po
 source_file = paylogic_genres/locale/paylogic_genres.pot
 
 source_lang = en
+lang_map = es_ES: es
 
 trans.en = paylogic_genres/locale/en/LC_MESSAGES/django.po
 trans.de = paylogic_genres/locale/de/LC_MESSAGES/django.po

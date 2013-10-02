@@ -34,10 +34,10 @@ def export_genres(source, output):
     for lang in paylogic_genres.get_supported_languages():
         trans = support.Translations.load(locale_dir, locales=(lang, ), domain='django')
         for code, genre in result.iteritems():
-            translated = trans.gettext(code)
+            translated = trans.ugettext(code)
             # Fallback to english
             if lang != 'en' and translated == code:
-                translated = english.gettext(code)
+                translated = english.ugettext(code)
             genre['name'][lang] = translated
 
     with open(output, 'w') as f:
