@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  Genres\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2013-10-02 10:30+0200\n"
+"POT-Creation-Date: 2014-09-15 12:45+0200\n"
 "PO-Revision-Date: 2013-09-25 15:35+0000\n"
 "Last-Translator: Dajana Queck <dajana.queck@paylogic.eu>\n"
 "Language-Team: German (http://example.com/projects/p/genres/team/de/)\n"
@@ -24,223 +24,303 @@ msgstr ""
 msgid "SPORTS:RUGBY"
 msgstr "Rugby"
 
-#. Apres-ski
+#. Techno
 #: src/paylogic_genres.json:1
+msgid "MUSIC:DANCE:TECHNO"
+msgstr ""
+
+#. Apres-ski
+#: src/paylogic_genres.json:2
 msgid "MUSIC:APRESSKI"
 msgstr "Apres-ski"
 
+#. Trance
+#: src/paylogic_genres.json:3
+msgid "MUSIC:DANCE:TRANCE"
+msgstr ""
+
 #. Baseball
-#: src/paylogic_genres.json:2
+#: src/paylogic_genres.json:4
 msgid "SPORTS:BASEBALL"
 msgstr "Baseball"
 
 #. Cabaret
-#: src/paylogic_genres.json:3
+#: src/paylogic_genres.json:5
 msgid "CULTURE:CABARET"
 msgstr "Kabarett"
 
 #. Hip-Hop/R&B
-#: src/paylogic_genres.json:4
+#: src/paylogic_genres.json:6
 msgid "MUSIC:HIPHOP-R&B"
 msgstr "Hip-Hop/R&B"
 
+#. Lounge
+#: src/paylogic_genres.json:7
+msgid "MUSIC:DANCE:LOUNGE"
+msgstr ""
+
 #. Business
-#: src/paylogic_genres.json:5
+#: src/paylogic_genres.json:8
 msgid "FAIR-CONGRESS:BUSINESS"
 msgstr "Geschäflich"
 
+#. Alternative
+#: src/paylogic_genres.json:9
+msgid "MUSIC:DANCE:ALTERNATIVE"
+msgstr ""
+
 #. Musical
-#: src/paylogic_genres.json:6
+#: src/paylogic_genres.json:10
 msgid "CULTURE:MUSICAL"
 msgstr "Musical"
 
-#. Jazz/Blues/Soul
-#: src/paylogic_genres.json:7
-msgid "MUSIC:JAZZ-BLUES-SOUL"
-msgstr "Jazz/Blues/Soul"
+#. Disco
+#: src/paylogic_genres.json:11
+msgid "MUSIC:DANCE:DISCO"
+msgstr ""
 
 #. Recreation
-#: src/paylogic_genres.json:8
+#: src/paylogic_genres.json:12
 msgid "RECREATION"
 msgstr "Erholung"
 
 #. Museums
-#: src/paylogic_genres.json:9
+#: src/paylogic_genres.json:13
 msgid "RECREATION:MUSEUM"
 msgstr "Museen"
 
 #. Motor sports
-#: src/paylogic_genres.json:10
+#: src/paylogic_genres.json:14
 msgid "SPORTS:MOTOR"
 msgstr "Motorsport"
 
 #. Football
-#: src/paylogic_genres.json:11
+#: src/paylogic_genres.json:15
 msgid "SPORTS:FOOTBALL"
 msgstr "Fußball"
 
 #. 70s
-#: src/paylogic_genres.json:12
+#: src/paylogic_genres.json:16
 msgid "MUSIC:70s"
 msgstr "70er"
 
 #. Culture
-#: src/paylogic_genres.json:13
+#: src/paylogic_genres.json:17
 msgid "CULTURE"
 msgstr "Kultur"
 
 #. Gay
-#: src/paylogic_genres.json:14
+#: src/paylogic_genres.json:18
 msgid "MUSIC:GAY"
 msgstr "Gay"
 
-#. 80s
-#: src/paylogic_genres.json:15
-msgid "MUSIC:80s"
-msgstr "80er"
-
-#. Festival
-#: src/paylogic_genres.json:16
-msgid "MUSIC:FESTIVAL"
-msgstr "Festival"
-
 #. Tennis
-#: src/paylogic_genres.json:17
+#: src/paylogic_genres.json:19
 msgid "SPORTS:TENNIS"
 msgstr "Tennis"
 
-#. Theatre
-#: src/paylogic_genres.json:18
-msgid "CULTURE:THEATRE"
-msgstr "Theater"
-
-#. 90s
-#: src/paylogic_genres.json:19
-msgid "MUSIC:90s"
-msgstr "90er"
-
-#. ADE
+#. 80s
 #: src/paylogic_genres.json:20
-msgid "MUSIC:DANCE:ADE"
-msgstr "Amsterdam Dance Event"
+msgid "MUSIC:80s"
+msgstr "80er"
 
-#. Amusement parks
+#. Hardcore
 #: src/paylogic_genres.json:21
-msgid "RECREATION:AMUSEMENTPARK"
-msgstr "Freizeitpark"
+msgid "MUSIC:DANCE:HARDCORE"
+msgstr ""
 
-#. Dutch
+#. Latin
 #: src/paylogic_genres.json:22
-msgid "MUSIC:DUTCH"
-msgstr "Holländisch"
+msgid "MUSIC:DANCE:LATIN"
+msgstr ""
 
-#. Korfball
+#. Electronic
 #: src/paylogic_genres.json:23
-msgid "SPORTS:KORFBALL"
-msgstr "Korfball"
+msgid "MUSIC:DANCE:ELECTRONIC"
+msgstr ""
 
 #. Ice skating
 #: src/paylogic_genres.json:24
 msgid "SPORTS:ICESKATING"
 msgstr "Schlittschuhlaufen"
 
-#. Culinair
+#. Theatre
 #: src/paylogic_genres.json:25
+msgid "CULTURE:THEATRE"
+msgstr "Theater"
+
+#. House
+#: src/paylogic_genres.json:26
+msgid "MUSIC:DANCE:HOUSE"
+msgstr ""
+
+#. Club
+#: src/paylogic_genres.json:27
+msgid "MUSIC:DANCE:CLUB"
+msgstr ""
+
+#. ADE
+#: src/paylogic_genres.json:28
+msgid "MUSIC:DANCE:ADE"
+msgstr "Amsterdam Dance Event"
+
+#. Amusement parks
+#: src/paylogic_genres.json:29
+msgid "RECREATION:AMUSEMENTPARK"
+msgstr "Freizeitpark"
+
+#. Hardstyle
+#: src/paylogic_genres.json:30
+msgid "MUSIC:DANCE:HARDSTYLE"
+msgstr ""
+
+#. Dutch
+#: src/paylogic_genres.json:31
+msgid "MUSIC:DUTCH"
+msgstr "Holländisch"
+
+#. Korfball
+#: src/paylogic_genres.json:32
+msgid "SPORTS:KORFBALL"
+msgstr "Korfball"
+
+#. Garage
+#: src/paylogic_genres.json:33
+msgid "MUSIC:DANCE:GARAGE"
+msgstr ""
+
+#. Culinair
+#: src/paylogic_genres.json:34
 msgid "CULTURE:CULINAIR"
 msgstr "Kulinarisches"
 
+#. 90s
+#: src/paylogic_genres.json:35
+msgid "MUSIC:90s"
+msgstr "90er"
+
 #. Music
-#: src/paylogic_genres.json:26
+#: src/paylogic_genres.json:36
 msgid "MUSIC"
 msgstr "Musik"
 
 #. Leisure:Hobby
-#: src/paylogic_genres.json:27
+#: src/paylogic_genres.json:37
 msgid "FAIR-CONGRESS:LEISURE-HOBBY"
 msgstr "Freizeit: Hobby"
 
+#. Eclectic
+#: src/paylogic_genres.json:38
+msgid "MUSIC:DANCE:ECLECTIC"
+msgstr ""
+
+#. Minimal/Techno
+#: src/paylogic_genres.json:39
+msgid "MUSIC:DANCE:MINIMAL-TECHNO"
+msgstr ""
+
 #. Hard Rock/Metal
-#: src/paylogic_genres.json:28
+#: src/paylogic_genres.json:40
 msgid "MUSIC:HARDROCK-METAL"
 msgstr "Hard Rock/Metal"
 
+#. Jazz/Blues/Soul
+#: src/paylogic_genres.json:41
+msgid "MUSIC:JAZZ-BLUES-SOUL"
+msgstr "Jazz/Blues/Soul"
+
 #. Television
-#: src/paylogic_genres.json:29
+#: src/paylogic_genres.json:42
 msgid "TELEVISION"
 msgstr "Fernsehen"
 
+#. Acid
+#: src/paylogic_genres.json:43
+msgid "MUSIC:DANCE:ACID"
+msgstr ""
+
 #. Other
-#: src/paylogic_genres.json:30
+#: src/paylogic_genres.json:44
 msgid "MUSIC:OTHER"
 msgstr "Anderes"
 
 #. Classical
-#: src/paylogic_genres.json:31
+#: src/paylogic_genres.json:45
 msgid "MUSIC:CLASSICAL"
 msgstr "Klassik"
 
 #. Opera
-#: src/paylogic_genres.json:32
+#: src/paylogic_genres.json:46
 msgid "CULTURE:OPERA"
 msgstr "Oper"
 
-#. Urban
-#: src/paylogic_genres.json:33
-msgid "MUSIC:DANCE:URBAN"
-msgstr "Urban"
+#. Dance
+#: src/paylogic_genres.json:47
+msgid "MUSIC:DANCE"
+msgstr "Dance"
 
 #. Rock/Pop
-#: src/paylogic_genres.json:34
+#: src/paylogic_genres.json:48
 msgid "MUSIC:ROCK-POP"
 msgstr "Rock/Pop"
 
 #. Sports
-#: src/paylogic_genres.json:35
+#: src/paylogic_genres.json:49
 msgid "SPORTS"
 msgstr "Sport"
 
 #. Fairs/Congresses
-#: src/paylogic_genres.json:36
+#: src/paylogic_genres.json:50
 msgid "FAIR-CONGRESS"
 msgstr "Messen/ Kongresse"
 
 #. Other
-#: src/paylogic_genres.json:37
+#: src/paylogic_genres.json:51
 msgid "CULTURE:OTHER"
 msgstr "Anderes"
 
-#. Dance
-#: src/paylogic_genres.json:38
-msgid "MUSIC:DANCE"
-msgstr "Dance"
+#. Festival
+#: src/paylogic_genres.json:52
+msgid "MUSIC:FESTIVAL"
+msgstr "Festival"
+
+#. Urban
+#: src/paylogic_genres.json:53
+msgid "MUSIC:DANCE:URBAN"
+msgstr "Urban"
 
 #. Volleyball
-#: src/paylogic_genres.json:39
+#: src/paylogic_genres.json:54
 msgid "SPORTS:VOLLEYBALL"
 msgstr "Volleyball"
 
 #. Other
-#: src/paylogic_genres.json:40
+#: src/paylogic_genres.json:55
 msgid "SPORTS:OTHER"
 msgstr "Anderes"
 
 #. Handball
-#: src/paylogic_genres.json:41
+#: src/paylogic_genres.json:56
 msgid "SPORTS:HANDBALL"
 msgstr "Handball"
 
 #. Circus
-#: src/paylogic_genres.json:42
+#: src/paylogic_genres.json:57
 msgid "CULTURE:CIRCUS"
 msgstr "Zirkus"
 
 #. Other
-#: src/paylogic_genres.json:43
+#: src/paylogic_genres.json:58
 msgid "RECREATION:OTHER"
 msgstr "Anderes"
 
+#. Progressive
+#: src/paylogic_genres.json:59
+msgid "MUSIC:DANCE:PROGRESSIVE"
+msgstr ""
+
 #. Basketball
-#: src/paylogic_genres.json:44
+#: src/paylogic_genres.json:60
 msgid "SPORTS:BASKETBALL"
 msgstr "Basketball"
 
