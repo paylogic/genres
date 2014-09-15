@@ -104,6 +104,86 @@
         "name": "Dance",
         "parent": "MUSIC"
     },
+    "MUSIC:DANCE:ACID": {
+        "ecc": "01.02.01",
+        "name": "Acid",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:ALTERNATIVE": {
+        "ecc": "01.02.02",
+        "name": "Alternative",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:CLUB": {
+        "ecc": "01.02.03",
+        "name": "Club",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:DISCO": {
+        "ecc": "01.02.04",
+        "name": "Disco",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:ECLECTIC": {
+        "ecc": "01.02.05",
+        "name": "Eclectic",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:ELECTRONIC": {
+        "ecc": "01.02.06",
+        "name": "Electronic",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:GARAGE": {
+        "ecc": "01.02.07",
+        "name": "Garage",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:HARDCORE": {
+        "ecc": "01.02.08",
+        "name": "Hardcore",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:HARDSTYLE": {
+        "ecc": "01.02.09",
+        "name": "Hardstyle",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:HOUSE": {
+        "ecc": "01.02.10",
+        "name": "House",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:LATIN": {
+        "ecc": "01.02.11",
+        "name": "Latin",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:LOUNGE": {
+        "ecc": "01.02.12",
+        "name": "Lounge",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:MINIMAL-TECHNO": {
+        "ecc": "01.02.13",
+        "name": "Minimal/Techno",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:PROGRESSIVE": {
+        "ecc": "01.02.14",
+        "name": "Progressive",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:TECHNO": {
+        "ecc": "01.02.15",
+        "name": "Techno",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:TRANCE": {
+        "ecc": "01.02.16",
+        "name": "Trance",
+        "parent": "MUSIC:DANCE"
+    },
     "MUSIC:DANCE:ADE": {
         "code": "MUSIC:DANCE:ADE",
         "ecc": "01.02.18",

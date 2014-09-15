@@ -12,6 +12,19 @@
         }, 
         "parent": "SPORTS"
     }, 
+    "MUSIC:DANCE:TECHNO": {
+        "ecc": "01.02.15", 
+        "name": {
+            "fr": "MUSIC:DANCE:TECHNO", 
+            "en": "MUSIC:DANCE:TECHNO", 
+            "nl": "MUSIC:DANCE:TECHNO", 
+            "pt": "MUSIC:DANCE:TECHNO", 
+            "de": "MUSIC:DANCE:TECHNO", 
+            "tr": "MUSIC:DANCE:TECHNO", 
+            "es": "MUSIC:DANCE:TECHNO"
+        }, 
+        "parent": "MUSIC:DANCE"
+    }, 
     "MUSIC:APRESSKI": {
         "ecc": "01.01", 
         "name": {
@@ -76,6 +89,32 @@
         }, 
         "parent": "MUSIC"
     }, 
+    "MUSIC:DANCE:LOUNGE": {
+        "ecc": "01.02.12", 
+        "name": {
+            "fr": "MUSIC:DANCE:LOUNGE", 
+            "en": "MUSIC:DANCE:LOUNGE", 
+            "nl": "MUSIC:DANCE:LOUNGE", 
+            "pt": "MUSIC:DANCE:LOUNGE", 
+            "de": "MUSIC:DANCE:LOUNGE", 
+            "tr": "MUSIC:DANCE:LOUNGE", 
+            "es": "MUSIC:DANCE:LOUNGE"
+        }, 
+        "parent": "MUSIC:DANCE"
+    }, 
+    "MUSIC:90s": {
+        "ecc": "01.12", 
+        "name": {
+            "fr": "90s", 
+            "en": "90s", 
+            "nl": "90s", 
+            "pt": "90s", 
+            "de": "90er", 
+            "tr": "90s", 
+            "es": "90s"
+        }, 
+        "parent": "MUSIC"
+    }, 
     "FAIR-CONGRESS:BUSINESS": {
         "ecc": "05.02", 
         "name": {
@@ -88,6 +127,19 @@
             "es": "Negocios"
         }, 
         "parent": "FAIR-CONGRESS"
+    }, 
+    "MUSIC:DANCE:ALTERNATIVE": {
+        "ecc": "01.02.02", 
+        "name": {
+            "fr": "MUSIC:DANCE:ALTERNATIVE", 
+            "en": "MUSIC:DANCE:ALTERNATIVE", 
+            "nl": "MUSIC:DANCE:ALTERNATIVE", 
+            "pt": "MUSIC:DANCE:ALTERNATIVE", 
+            "de": "MUSIC:DANCE:ALTERNATIVE", 
+            "tr": "MUSIC:DANCE:ALTERNATIVE", 
+            "es": "MUSIC:DANCE:ALTERNATIVE"
+        }, 
+        "parent": "MUSIC:DANCE"
     }, 
     "CULTURE:MUSICAL": {
         "ecc": "03.03", 
@@ -102,18 +154,18 @@
         }, 
         "parent": "CULTURE"
     }, 
-    "MUSIC:JAZZ-BLUES-SOUL": {
-        "ecc": "01.07", 
+    "MUSIC:DANCE:DISCO": {
+        "ecc": "01.02.04", 
         "name": {
-            "fr": "Jazz/Blues/Soul", 
-            "en": "Jazz/Blues/Soul", 
-            "nl": "Jazz/Blues/Soul", 
-            "pt": "Jazz/Blues/Soul", 
-            "de": "Jazz/Blues/Soul", 
-            "tr": "Jazz/Blues/Soul", 
-            "es": "Jazz/Blues/Soul"
+            "fr": "MUSIC:DANCE:DISCO", 
+            "en": "MUSIC:DANCE:DISCO", 
+            "nl": "MUSIC:DANCE:DISCO", 
+            "pt": "MUSIC:DANCE:DISCO", 
+            "de": "MUSIC:DANCE:DISCO", 
+            "tr": "MUSIC:DANCE:DISCO", 
+            "es": "MUSIC:DANCE:DISCO"
         }, 
-        "parent": "MUSIC"
+        "parent": "MUSIC:DANCE"
     }, 
     "RECREATION": {
         "ecc": "04", 
@@ -218,18 +270,44 @@
         }, 
         "parent": "MUSIC"
     }, 
-    "CULTURE:OTHER": {
-        "ecc": "03.06", 
+    "MUSIC:DANCE:HARDCORE": {
+        "ecc": "01.02.08", 
         "name": {
-            "fr": "Autre", 
-            "en": "Other", 
-            "nl": "Anders", 
-            "pt": "Other", 
-            "de": "Anderes", 
-            "tr": "Other", 
-            "es": "Otro"
+            "fr": "MUSIC:DANCE:HARDCORE", 
+            "en": "MUSIC:DANCE:HARDCORE", 
+            "nl": "MUSIC:DANCE:HARDCORE", 
+            "pt": "MUSIC:DANCE:HARDCORE", 
+            "de": "MUSIC:DANCE:HARDCORE", 
+            "tr": "MUSIC:DANCE:HARDCORE", 
+            "es": "MUSIC:DANCE:HARDCORE"
         }, 
-        "parent": "CULTURE"
+        "parent": "MUSIC:DANCE"
+    }, 
+    "MUSIC:DANCE:LATIN": {
+        "ecc": "01.02.11", 
+        "name": {
+            "fr": "MUSIC:DANCE:LATIN", 
+            "en": "MUSIC:DANCE:LATIN", 
+            "nl": "MUSIC:DANCE:LATIN", 
+            "pt": "MUSIC:DANCE:LATIN", 
+            "de": "MUSIC:DANCE:LATIN", 
+            "tr": "MUSIC:DANCE:LATIN", 
+            "es": "MUSIC:DANCE:LATIN"
+        }, 
+        "parent": "MUSIC:DANCE"
+    }, 
+    "MUSIC:DANCE:ELECTRONIC": {
+        "ecc": "01.02.06", 
+        "name": {
+            "fr": "MUSIC:DANCE:ELECTRONIC", 
+            "en": "MUSIC:DANCE:ELECTRONIC", 
+            "nl": "MUSIC:DANCE:ELECTRONIC", 
+            "pt": "MUSIC:DANCE:ELECTRONIC", 
+            "de": "MUSIC:DANCE:ELECTRONIC", 
+            "tr": "MUSIC:DANCE:ELECTRONIC", 
+            "es": "MUSIC:DANCE:ELECTRONIC"
+        }, 
+        "parent": "MUSIC:DANCE"
     }, 
     "CULTURE:THEATRE": {
         "ecc": "03.05", 
@@ -244,18 +322,31 @@
         }, 
         "parent": "CULTURE"
     }, 
-    "MUSIC:90s": {
-        "ecc": "01.12", 
+    "MUSIC:DANCE:HOUSE": {
+        "ecc": "01.02.10", 
         "name": {
-            "fr": "90s", 
-            "en": "90s", 
-            "nl": "90s", 
-            "pt": "90s", 
-            "de": "90er", 
-            "tr": "90s", 
-            "es": "90s"
+            "fr": "MUSIC:DANCE:HOUSE", 
+            "en": "MUSIC:DANCE:HOUSE", 
+            "nl": "MUSIC:DANCE:HOUSE", 
+            "pt": "MUSIC:DANCE:HOUSE", 
+            "de": "MUSIC:DANCE:HOUSE", 
+            "tr": "MUSIC:DANCE:HOUSE", 
+            "es": "MUSIC:DANCE:HOUSE"
         }, 
-        "parent": "MUSIC"
+        "parent": "MUSIC:DANCE"
+    }, 
+    "MUSIC:DANCE:CLUB": {
+        "ecc": "01.02.03", 
+        "name": {
+            "fr": "MUSIC:DANCE:CLUB", 
+            "en": "MUSIC:DANCE:CLUB", 
+            "nl": "MUSIC:DANCE:CLUB", 
+            "pt": "MUSIC:DANCE:CLUB", 
+            "de": "MUSIC:DANCE:CLUB", 
+            "tr": "MUSIC:DANCE:CLUB", 
+            "es": "MUSIC:DANCE:CLUB"
+        }, 
+        "parent": "MUSIC:DANCE"
     }, 
     "MUSIC:DANCE:ADE": {
         "ecc": "01.02.18", 
@@ -282,6 +373,19 @@
             "es": "Parques de atracciones"
         }, 
         "parent": "RECREATION"
+    }, 
+    "CULTURE:CULINAIR": {
+        "ecc": "03.07", 
+        "name": {
+            "fr": "Culinaire", 
+            "en": "Culinair", 
+            "nl": "Culinair", 
+            "pt": "Culinair", 
+            "de": "Kulinarisches", 
+            "tr": "Culinair", 
+            "es": "Culinario"
+        }, 
+        "parent": "CULTURE"
     }, 
     "MUSIC:DUTCH": {
         "ecc": "01.06", 
@@ -322,18 +426,44 @@
         }, 
         "parent": "SPORTS"
     }, 
-    "CULTURE:CULINAIR": {
-        "ecc": "03.07", 
+    "MUSIC:DANCE:HARDSTYLE": {
+        "ecc": "01.02.09", 
         "name": {
-            "fr": "Culinaire", 
-            "en": "Culinair", 
-            "nl": "Culinair", 
-            "pt": "Culinair", 
-            "de": "Kulinarisches", 
-            "tr": "Culinair", 
-            "es": "Culinario"
+            "fr": "MUSIC:DANCE:HARDSTYLE", 
+            "en": "MUSIC:DANCE:HARDSTYLE", 
+            "nl": "MUSIC:DANCE:HARDSTYLE", 
+            "pt": "MUSIC:DANCE:HARDSTYLE", 
+            "de": "MUSIC:DANCE:HARDSTYLE", 
+            "tr": "MUSIC:DANCE:HARDSTYLE", 
+            "es": "MUSIC:DANCE:HARDSTYLE"
         }, 
-        "parent": "CULTURE"
+        "parent": "MUSIC:DANCE"
+    }, 
+    "MUSIC:DANCE:TRANCE": {
+        "ecc": "01.02.16", 
+        "name": {
+            "fr": "MUSIC:DANCE:TRANCE", 
+            "en": "MUSIC:DANCE:TRANCE", 
+            "nl": "MUSIC:DANCE:TRANCE", 
+            "pt": "MUSIC:DANCE:TRANCE", 
+            "de": "MUSIC:DANCE:TRANCE", 
+            "tr": "MUSIC:DANCE:TRANCE", 
+            "es": "MUSIC:DANCE:TRANCE"
+        }, 
+        "parent": "MUSIC:DANCE"
+    }, 
+    "MUSIC:DANCE:GARAGE": {
+        "ecc": "01.02.07", 
+        "name": {
+            "fr": "MUSIC:DANCE:GARAGE", 
+            "en": "MUSIC:DANCE:GARAGE", 
+            "nl": "MUSIC:DANCE:GARAGE", 
+            "pt": "MUSIC:DANCE:GARAGE", 
+            "de": "MUSIC:DANCE:GARAGE", 
+            "tr": "MUSIC:DANCE:GARAGE", 
+            "es": "MUSIC:DANCE:GARAGE"
+        }, 
+        "parent": "MUSIC:DANCE"
     }, 
     "MUSIC": {
         "ecc": "01", 
@@ -360,6 +490,32 @@
         }, 
         "parent": "FAIR-CONGRESS"
     }, 
+    "MUSIC:DANCE:ECLECTIC": {
+        "ecc": "01.02.05", 
+        "name": {
+            "fr": "MUSIC:DANCE:ECLECTIC", 
+            "en": "MUSIC:DANCE:ECLECTIC", 
+            "nl": "MUSIC:DANCE:ECLECTIC", 
+            "pt": "MUSIC:DANCE:ECLECTIC", 
+            "de": "MUSIC:DANCE:ECLECTIC", 
+            "tr": "MUSIC:DANCE:ECLECTIC", 
+            "es": "MUSIC:DANCE:ECLECTIC"
+        }, 
+        "parent": "MUSIC:DANCE"
+    }, 
+    "MUSIC:DANCE:MINIMAL-TECHNO": {
+        "ecc": "01.02.13", 
+        "name": {
+            "fr": "MUSIC:DANCE:MINIMAL-TECHNO", 
+            "en": "MUSIC:DANCE:MINIMAL-TECHNO", 
+            "nl": "MUSIC:DANCE:MINIMAL-TECHNO", 
+            "pt": "MUSIC:DANCE:MINIMAL-TECHNO", 
+            "de": "MUSIC:DANCE:MINIMAL-TECHNO", 
+            "tr": "MUSIC:DANCE:MINIMAL-TECHNO", 
+            "es": "MUSIC:DANCE:MINIMAL-TECHNO"
+        }, 
+        "parent": "MUSIC:DANCE"
+    }, 
     "RECREATION:MUSEUM": {
         "ecc": "04.02", 
         "name": {
@@ -373,6 +529,19 @@
         }, 
         "parent": "RECREATION"
     }, 
+    "MUSIC:JAZZ-BLUES-SOUL": {
+        "ecc": "01.07", 
+        "name": {
+            "fr": "Jazz/Blues/Soul", 
+            "en": "Jazz/Blues/Soul", 
+            "nl": "Jazz/Blues/Soul", 
+            "pt": "Jazz/Blues/Soul", 
+            "de": "Jazz/Blues/Soul", 
+            "tr": "Jazz/Blues/Soul", 
+            "es": "Jazz/Blues/Soul"
+        }, 
+        "parent": "MUSIC"
+    }, 
     "TELEVISION": {
         "ecc": "06", 
         "name": {
@@ -384,6 +553,19 @@
             "tr": "Television", 
             "es": "Televisi\u00f3n"
         }
+    }, 
+    "MUSIC:DANCE:ACID": {
+        "ecc": "01.02.01", 
+        "name": {
+            "fr": "MUSIC:DANCE:ACID", 
+            "en": "MUSIC:DANCE:ACID", 
+            "nl": "MUSIC:DANCE:ACID", 
+            "pt": "MUSIC:DANCE:ACID", 
+            "de": "MUSIC:DANCE:ACID", 
+            "tr": "MUSIC:DANCE:ACID", 
+            "es": "MUSIC:DANCE:ACID"
+        }, 
+        "parent": "MUSIC:DANCE"
     }, 
     "MUSIC:OTHER": {
         "ecc": "01.14", 
@@ -424,18 +606,18 @@
         }, 
         "parent": "CULTURE"
     }, 
-    "MUSIC:DANCE:URBAN": {
-        "ecc": "01.02.17", 
+    "MUSIC:DANCE": {
+        "ecc": "01.02", 
         "name": {
-            "fr": "Urban", 
-            "en": "Urban", 
-            "nl": "Urban", 
-            "pt": "Urban", 
-            "de": "Urban", 
-            "tr": "Urban", 
-            "es": "Urbano"
+            "fr": "Danse", 
+            "en": "Dance", 
+            "nl": "Dance", 
+            "pt": "Dance", 
+            "de": "Dance", 
+            "tr": "Dance", 
+            "es": "Danza"
         }, 
-        "parent": "MUSIC:DANCE"
+        "parent": "MUSIC"
     }, 
     "MUSIC:ROCK-POP": {
         "ecc": "01.09", 
@@ -474,6 +656,19 @@
             "es": "Cultura"
         }
     }, 
+    "CULTURE:OTHER": {
+        "ecc": "03.06", 
+        "name": {
+            "fr": "Autre", 
+            "en": "Other", 
+            "nl": "Anders", 
+            "pt": "Other", 
+            "de": "Anderes", 
+            "tr": "Other", 
+            "es": "Otro"
+        }, 
+        "parent": "CULTURE"
+    }, 
     "MUSIC:FESTIVAL": {
         "ecc": "01.03", 
         "name": {
@@ -487,18 +682,18 @@
         }, 
         "parent": "MUSIC"
     }, 
-    "MUSIC:DANCE": {
-        "ecc": "01.02", 
+    "MUSIC:DANCE:URBAN": {
+        "ecc": "01.02.17", 
         "name": {
-            "fr": "Danse", 
-            "en": "Dance", 
-            "nl": "Dance", 
-            "pt": "Dance", 
-            "de": "Dance", 
-            "tr": "Dance", 
-            "es": "Danza"
+            "fr": "Urban", 
+            "en": "Urban", 
+            "nl": "Urban", 
+            "pt": "Urban", 
+            "de": "Urban", 
+            "tr": "Urban", 
+            "es": "Urbano"
         }, 
-        "parent": "MUSIC"
+        "parent": "MUSIC:DANCE"
     }, 
     "SPORTS:VOLLEYBALL": {
         "ecc": "02.10", 
@@ -564,6 +759,19 @@
             "es": "Otro"
         }, 
         "parent": "RECREATION"
+    }, 
+    "MUSIC:DANCE:PROGRESSIVE": {
+        "ecc": "01.02.14", 
+        "name": {
+            "fr": "MUSIC:DANCE:PROGRESSIVE", 
+            "en": "MUSIC:DANCE:PROGRESSIVE", 
+            "nl": "MUSIC:DANCE:PROGRESSIVE", 
+            "pt": "MUSIC:DANCE:PROGRESSIVE", 
+            "de": "MUSIC:DANCE:PROGRESSIVE", 
+            "tr": "MUSIC:DANCE:PROGRESSIVE", 
+            "es": "MUSIC:DANCE:PROGRESSIVE"
+        }, 
+        "parent": "MUSIC:DANCE"
     }, 
     "SPORTS:BASKETBALL": {
         "ecc": "02.01", 
