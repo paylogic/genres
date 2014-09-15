@@ -15,13 +15,13 @@
     "MUSIC:DANCE:TECHNO": {
         "ecc": "01.02.15", 
         "name": {
-            "fr": "MUSIC:DANCE:TECHNO", 
-            "en": "MUSIC:DANCE:TECHNO", 
-            "nl": "MUSIC:DANCE:TECHNO", 
-            "pt": "MUSIC:DANCE:TECHNO", 
-            "de": "MUSIC:DANCE:TECHNO", 
-            "tr": "MUSIC:DANCE:TECHNO", 
-            "es": "MUSIC:DANCE:TECHNO"
+            "fr": "Techno", 
+            "en": "Techno", 
+            "nl": "Techno", 
+            "pt": "Techno", 
+            "de": "Techno", 
+            "tr": "Techno", 
+            "es": "Techno"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -92,13 +92,13 @@
     "MUSIC:DANCE:LOUNGE": {
         "ecc": "01.02.12", 
         "name": {
-            "fr": "MUSIC:DANCE:LOUNGE", 
-            "en": "MUSIC:DANCE:LOUNGE", 
-            "nl": "MUSIC:DANCE:LOUNGE", 
-            "pt": "MUSIC:DANCE:LOUNGE", 
-            "de": "MUSIC:DANCE:LOUNGE", 
-            "tr": "MUSIC:DANCE:LOUNGE", 
-            "es": "MUSIC:DANCE:LOUNGE"
+            "fr": "Lounge", 
+            "en": "Lounge", 
+            "nl": "Lounge", 
+            "pt": "Lounge", 
+            "de": "Lounge", 
+            "tr": "Lounge", 
+            "es": "Lounge"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -131,13 +131,13 @@
     "MUSIC:DANCE:ALTERNATIVE": {
         "ecc": "01.02.02", 
         "name": {
-            "fr": "MUSIC:DANCE:ALTERNATIVE", 
-            "en": "MUSIC:DANCE:ALTERNATIVE", 
-            "nl": "MUSIC:DANCE:ALTERNATIVE", 
-            "pt": "MUSIC:DANCE:ALTERNATIVE", 
-            "de": "MUSIC:DANCE:ALTERNATIVE", 
-            "tr": "MUSIC:DANCE:ALTERNATIVE", 
-            "es": "MUSIC:DANCE:ALTERNATIVE"
+            "fr": "Alternative", 
+            "en": "Alternative", 
+            "nl": "Alternative", 
+            "pt": "Alternative", 
+            "de": "Alternative", 
+            "tr": "Alternative", 
+            "es": "Alternative"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -157,13 +157,13 @@
     "MUSIC:DANCE:DISCO": {
         "ecc": "01.02.04", 
         "name": {
-            "fr": "MUSIC:DANCE:DISCO", 
-            "en": "MUSIC:DANCE:DISCO", 
-            "nl": "MUSIC:DANCE:DISCO", 
-            "pt": "MUSIC:DANCE:DISCO", 
-            "de": "MUSIC:DANCE:DISCO", 
-            "tr": "MUSIC:DANCE:DISCO", 
-            "es": "MUSIC:DANCE:DISCO"
+            "fr": "Disco", 
+            "en": "Disco", 
+            "nl": "Disco", 
+            "pt": "Disco", 
+            "de": "Disco", 
+            "tr": "Disco", 
+            "es": "Disco"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -273,39 +273,39 @@
     "MUSIC:DANCE:HARDCORE": {
         "ecc": "01.02.08", 
         "name": {
-            "fr": "MUSIC:DANCE:HARDCORE", 
-            "en": "MUSIC:DANCE:HARDCORE", 
-            "nl": "MUSIC:DANCE:HARDCORE", 
-            "pt": "MUSIC:DANCE:HARDCORE", 
-            "de": "MUSIC:DANCE:HARDCORE", 
-            "tr": "MUSIC:DANCE:HARDCORE", 
-            "es": "MUSIC:DANCE:HARDCORE"
+            "fr": "Hardcore", 
+            "en": "Hardcore", 
+            "nl": "Hardcore", 
+            "pt": "Hardcore", 
+            "de": "Hardcore", 
+            "tr": "Hardcore", 
+            "es": "Hardcore"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
     "MUSIC:DANCE:LATIN": {
         "ecc": "01.02.11", 
         "name": {
-            "fr": "MUSIC:DANCE:LATIN", 
-            "en": "MUSIC:DANCE:LATIN", 
-            "nl": "MUSIC:DANCE:LATIN", 
-            "pt": "MUSIC:DANCE:LATIN", 
-            "de": "MUSIC:DANCE:LATIN", 
-            "tr": "MUSIC:DANCE:LATIN", 
-            "es": "MUSIC:DANCE:LATIN"
+            "fr": "Latin", 
+            "en": "Latin", 
+            "nl": "Latin", 
+            "pt": "Latin", 
+            "de": "Latin", 
+            "tr": "Latin", 
+            "es": "Latin"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
     "MUSIC:DANCE:ELECTRONIC": {
         "ecc": "01.02.06", 
         "name": {
-            "fr": "MUSIC:DANCE:ELECTRONIC", 
-            "en": "MUSIC:DANCE:ELECTRONIC", 
-            "nl": "MUSIC:DANCE:ELECTRONIC", 
-            "pt": "MUSIC:DANCE:ELECTRONIC", 
-            "de": "MUSIC:DANCE:ELECTRONIC", 
-            "tr": "MUSIC:DANCE:ELECTRONIC", 
-            "es": "MUSIC:DANCE:ELECTRONIC"
+            "fr": "Electronic", 
+            "en": "Electronic", 
+            "nl": "Electronic", 
+            "pt": "Electronic", 
+            "de": "Electronic", 
+            "tr": "Electronic", 
+            "es": "Electronic"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -325,26 +325,26 @@
     "MUSIC:DANCE:HOUSE": {
         "ecc": "01.02.10", 
         "name": {
-            "fr": "MUSIC:DANCE:HOUSE", 
-            "en": "MUSIC:DANCE:HOUSE", 
-            "nl": "MUSIC:DANCE:HOUSE", 
-            "pt": "MUSIC:DANCE:HOUSE", 
-            "de": "MUSIC:DANCE:HOUSE", 
-            "tr": "MUSIC:DANCE:HOUSE", 
-            "es": "MUSIC:DANCE:HOUSE"
+            "fr": "House", 
+            "en": "House", 
+            "nl": "House", 
+            "pt": "House", 
+            "de": "House", 
+            "tr": "House", 
+            "es": "House"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
     "MUSIC:DANCE:CLUB": {
         "ecc": "01.02.03", 
         "name": {
-            "fr": "MUSIC:DANCE:CLUB", 
-            "en": "MUSIC:DANCE:CLUB", 
-            "nl": "MUSIC:DANCE:CLUB", 
-            "pt": "MUSIC:DANCE:CLUB", 
-            "de": "MUSIC:DANCE:CLUB", 
-            "tr": "MUSIC:DANCE:CLUB", 
-            "es": "MUSIC:DANCE:CLUB"
+            "fr": "Club", 
+            "en": "Club", 
+            "nl": "Club", 
+            "pt": "Club", 
+            "de": "Club", 
+            "tr": "Club", 
+            "es": "Club"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -429,39 +429,39 @@
     "MUSIC:DANCE:HARDSTYLE": {
         "ecc": "01.02.09", 
         "name": {
-            "fr": "MUSIC:DANCE:HARDSTYLE", 
-            "en": "MUSIC:DANCE:HARDSTYLE", 
-            "nl": "MUSIC:DANCE:HARDSTYLE", 
-            "pt": "MUSIC:DANCE:HARDSTYLE", 
-            "de": "MUSIC:DANCE:HARDSTYLE", 
-            "tr": "MUSIC:DANCE:HARDSTYLE", 
-            "es": "MUSIC:DANCE:HARDSTYLE"
+            "fr": "Hardstyle", 
+            "en": "Hardstyle", 
+            "nl": "Hardstyle", 
+            "pt": "Hardstyle", 
+            "de": "Hardstyle", 
+            "tr": "Hardstyle", 
+            "es": "Hardstyle"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
     "MUSIC:DANCE:TRANCE": {
         "ecc": "01.02.16", 
         "name": {
-            "fr": "MUSIC:DANCE:TRANCE", 
-            "en": "MUSIC:DANCE:TRANCE", 
-            "nl": "MUSIC:DANCE:TRANCE", 
-            "pt": "MUSIC:DANCE:TRANCE", 
-            "de": "MUSIC:DANCE:TRANCE", 
-            "tr": "MUSIC:DANCE:TRANCE", 
-            "es": "MUSIC:DANCE:TRANCE"
+            "fr": "Trance", 
+            "en": "Trance", 
+            "nl": "Trance", 
+            "pt": "Trance", 
+            "de": "Trance", 
+            "tr": "Trance", 
+            "es": "Trance"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
     "MUSIC:DANCE:GARAGE": {
         "ecc": "01.02.07", 
         "name": {
-            "fr": "MUSIC:DANCE:GARAGE", 
-            "en": "MUSIC:DANCE:GARAGE", 
-            "nl": "MUSIC:DANCE:GARAGE", 
-            "pt": "MUSIC:DANCE:GARAGE", 
-            "de": "MUSIC:DANCE:GARAGE", 
-            "tr": "MUSIC:DANCE:GARAGE", 
-            "es": "MUSIC:DANCE:GARAGE"
+            "fr": "Garage", 
+            "en": "Garage", 
+            "nl": "Garage", 
+            "pt": "Garage", 
+            "de": "Garage", 
+            "tr": "Garage", 
+            "es": "Garage"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -493,26 +493,26 @@
     "MUSIC:DANCE:ECLECTIC": {
         "ecc": "01.02.05", 
         "name": {
-            "fr": "MUSIC:DANCE:ECLECTIC", 
-            "en": "MUSIC:DANCE:ECLECTIC", 
-            "nl": "MUSIC:DANCE:ECLECTIC", 
-            "pt": "MUSIC:DANCE:ECLECTIC", 
-            "de": "MUSIC:DANCE:ECLECTIC", 
-            "tr": "MUSIC:DANCE:ECLECTIC", 
-            "es": "MUSIC:DANCE:ECLECTIC"
+            "fr": "Eclectic", 
+            "en": "Eclectic", 
+            "nl": "Eclectic", 
+            "pt": "Eclectic", 
+            "de": "Eclectic", 
+            "tr": "Eclectic", 
+            "es": "Eclectic"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
     "MUSIC:DANCE:MINIMAL-TECHNO": {
         "ecc": "01.02.13", 
         "name": {
-            "fr": "MUSIC:DANCE:MINIMAL-TECHNO", 
-            "en": "MUSIC:DANCE:MINIMAL-TECHNO", 
-            "nl": "MUSIC:DANCE:MINIMAL-TECHNO", 
-            "pt": "MUSIC:DANCE:MINIMAL-TECHNO", 
-            "de": "MUSIC:DANCE:MINIMAL-TECHNO", 
-            "tr": "MUSIC:DANCE:MINIMAL-TECHNO", 
-            "es": "MUSIC:DANCE:MINIMAL-TECHNO"
+            "fr": "Minimal/Techno", 
+            "en": "Minimal/Techno", 
+            "nl": "Minimal/Techno", 
+            "pt": "Minimal/Techno", 
+            "de": "Minimal/Techno", 
+            "tr": "Minimal/Techno", 
+            "es": "Minimal/Techno"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -557,13 +557,13 @@
     "MUSIC:DANCE:ACID": {
         "ecc": "01.02.01", 
         "name": {
-            "fr": "MUSIC:DANCE:ACID", 
-            "en": "MUSIC:DANCE:ACID", 
-            "nl": "MUSIC:DANCE:ACID", 
-            "pt": "MUSIC:DANCE:ACID", 
-            "de": "MUSIC:DANCE:ACID", 
-            "tr": "MUSIC:DANCE:ACID", 
-            "es": "MUSIC:DANCE:ACID"
+            "fr": "Acid", 
+            "en": "Acid", 
+            "nl": "Acid", 
+            "pt": "Acid", 
+            "de": "Acid", 
+            "tr": "Acid", 
+            "es": "Acid"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
