@@ -4,14 +4,15 @@
 # 
 # Translators:
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
-# Simon Krauss <simon.krauss@paylogic.eu>, 2013.
+# Jann Brys <jann.brys@paylogic.eu>, 2014.
+# Simon Krauss <simon.krauss@paylogic.eu>, 2013, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: Genres\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2014-09-15 14:15+0200\n"
-"PO-Revision-Date: 2014-09-15 14:25+0000\n"
-"Last-Translator: paylogic <security@paylogic.eu>\n"
+"PO-Revision-Date: 2014-09-26 14:02+0000\n"
+"Last-Translator: Jann Brys <jann.brys@paylogic.eu>\n"
 "Language-Team: French (http://example.com/projects/p/genres/team/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,7 +29,7 @@ msgstr "Rugby"
 #. Techno
 #: src/paylogic_genres.json:1
 msgid "MUSIC:DANCE:TECHNO"
-msgstr ""
+msgstr "Techno"
 
 #. Apres-ski
 #: src/paylogic_genres.json:2
@@ -38,7 +39,7 @@ msgstr "Après-ski"
 #. Trance
 #: src/paylogic_genres.json:3
 msgid "MUSIC:DANCE:TRANCE"
-msgstr ""
+msgstr "Trance"
 
 #. Baseball
 #: src/paylogic_genres.json:4
@@ -58,7 +59,7 @@ msgstr "Hip-hop/R&B"
 #. Lounge
 #: src/paylogic_genres.json:7
 msgid "MUSIC:DANCE:LOUNGE"
-msgstr ""
+msgstr "Lounge"
 
 #. Business
 #: src/paylogic_genres.json:8
@@ -68,7 +69,7 @@ msgstr "Commerce"
 #. Alternative
 #: src/paylogic_genres.json:9
 msgid "MUSIC:DANCE:ALTERNATIVE"
-msgstr ""
+msgstr "Alternatif"
 
 #. Musical
 #: src/paylogic_genres.json:10
@@ -78,7 +79,7 @@ msgstr "Comédie musicale"
 #. Disco
 #: src/paylogic_genres.json:11
 msgid "MUSIC:DANCE:DISCO"
-msgstr ""
+msgstr "Disco"
 
 #. Recreation
 #: src/paylogic_genres.json:12
@@ -128,17 +129,17 @@ msgstr "80s"
 #. Hardcore
 #: src/paylogic_genres.json:21
 msgid "MUSIC:DANCE:HARDCORE"
-msgstr ""
+msgstr "Hardcore"
 
 #. Latin
 #: src/paylogic_genres.json:22
 msgid "MUSIC:DANCE:LATIN"
-msgstr ""
+msgstr "Latin"
 
 #. Electronic
 #: src/paylogic_genres.json:23
 msgid "MUSIC:DANCE:ELECTRONIC"
-msgstr ""
+msgstr "Électronique"
 
 #. Ice skating
 #: src/paylogic_genres.json:24
@@ -153,12 +154,12 @@ msgstr "Théâtre"
 #. House
 #: src/paylogic_genres.json:26
 msgid "MUSIC:DANCE:HOUSE"
-msgstr ""
+msgstr "House"
 
 #. Club
 #: src/paylogic_genres.json:27
 msgid "MUSIC:DANCE:CLUB"
-msgstr ""
+msgstr "Club"
 
 #. ADE
 #: src/paylogic_genres.json:28
@@ -173,7 +174,7 @@ msgstr "Parcs d'attractions"
 #. Hardstyle
 #: src/paylogic_genres.json:30
 msgid "MUSIC:DANCE:HARDSTYLE"
-msgstr ""
+msgstr "Hardstyle"
 
 #. Dutch
 #: src/paylogic_genres.json:31
@@ -188,7 +189,7 @@ msgstr "Korfball"
 #. Garage
 #: src/paylogic_genres.json:33
 msgid "MUSIC:DANCE:GARAGE"
-msgstr ""
+msgstr "Garage"
 
 #. Culinair
 #: src/paylogic_genres.json:34
@@ -213,12 +214,12 @@ msgstr "Loisirs:Hobby"
 #. Eclectic
 #: src/paylogic_genres.json:38
 msgid "MUSIC:DANCE:ECLECTIC"
-msgstr ""
+msgstr "Eclectic"
 
 #. Minimal/Techno
 #: src/paylogic_genres.json:39
 msgid "MUSIC:DANCE:MINIMAL-TECHNO"
-msgstr ""
+msgstr "Minimal/Techno"
 
 #. Hard Rock/Metal
 #: src/paylogic_genres.json:40
@@ -238,7 +239,7 @@ msgstr "Télévision"
 #. Acid
 #: src/paylogic_genres.json:43
 msgid "MUSIC:DANCE:ACID"
-msgstr ""
+msgstr "Acid"
 
 #. Other
 #: src/paylogic_genres.json:44
@@ -318,7 +319,7 @@ msgstr "Autre"
 #. Progressive
 #: src/paylogic_genres.json:59
 msgid "MUSIC:DANCE:PROGRESSIVE"
-msgstr ""
+msgstr "Progressive"
 
 #. Basketball
 #: src/paylogic_genres.json:60
