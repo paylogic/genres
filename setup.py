@@ -48,7 +48,7 @@ setup(
     #long_description=__doc__,
     author='Paylogic',
     license='MIT license',
-    version='0.1.4',
+    version='0.1.5',
     cmdclass={
         'export_json': ExportJSON,
     },

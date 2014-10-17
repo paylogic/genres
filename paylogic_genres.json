@@ -131,7 +131,7 @@
     "MUSIC:DANCE:ALTERNATIVE": {
         "ecc": "01.02.02", 
         "name": {
-            "fr": "Alternative", 
+            "fr": "Alternatif", 
             "en": "Alternative", 
             "nl": "Alternative", 
             "pt": "Alternative", 
@@ -299,7 +299,7 @@
     "MUSIC:DANCE:ELECTRONIC": {
         "ecc": "01.02.06", 
         "name": {
-            "fr": "Electronic", 
+            "fr": "\u00c9lectronique", 
             "en": "Electronic", 
             "nl": "Electronic", 
             "pt": "Electronic", 
@@ -763,13 +763,13 @@
     "MUSIC:DANCE:PROGRESSIVE": {
         "ecc": "01.02.14", 
         "name": {
-            "fr": "MUSIC:DANCE:PROGRESSIVE", 
-            "en": "MUSIC:DANCE:PROGRESSIVE", 
-            "nl": "MUSIC:DANCE:PROGRESSIVE", 
-            "pt": "MUSIC:DANCE:PROGRESSIVE", 
-            "de": "MUSIC:DANCE:PROGRESSIVE", 
-            "tr": "MUSIC:DANCE:PROGRESSIVE", 
-            "es": "MUSIC:DANCE:PROGRESSIVE"
+            "fr": "Progressive", 
+            "en": "Progressive", 
+            "nl": "Progressive", 
+            "pt": "Progressive", 
+            "de": "Progressive", 
+            "tr": "Progressive", 
+            "es": "Progressive"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
