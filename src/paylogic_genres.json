@@ -1,112 +1,133 @@
 {
     "CULTURE": {
-        "code": "CULTURE",
         "ecc": "03",
         "name": "Culture"
     },
     "CULTURE:CABARET": {
-        "code": "CULTURE:CABARET",
         "ecc": "03.01",
         "name": "Cabaret",
         "parent": "CULTURE"
     },
     "CULTURE:CIRCUS": {
-        "code": "CULTURE:CIRCUS",
         "ecc": "03.02",
         "name": "Circus",
         "parent": "CULTURE"
     },
     "CULTURE:CULINAIR": {
-        "code": "CULTURE:CULINAIR",
         "ecc": "03.07",
         "name": "Culinair",
         "parent": "CULTURE"
     },
+    "CULTURE:LITERATURE": {
+        "ecc": "03.08",
+        "name": "Literature and spoken word",
+        "parent": "CULTURE"
+    },
+    "CULTURE:MUSEUM": {
+        "ecc": "03.09",
+        "name": "Museum",
+        "parent": "CULTURE"
+    },
     "CULTURE:MUSICAL": {
-        "code": "CULTURE:MUSICAL",
         "ecc": "03.03",
         "name": "Musical",
         "parent": "CULTURE"
     },
     "CULTURE:OPERA": {
-        "code": "CULTURE:OPERA",
         "ecc": "03.04",
         "name": "Opera",
         "parent": "CULTURE"
     },
+    "CULTURE:SYMPHONY": {
+        "ecc": "03.10",
+        "name": "Symphony",
+        "parent": "CULTURE"
+    },
     "CULTURE:OTHER": {
-        "code": "CULTURE:OTHER",
         "ecc": "03.06",
         "name": "Other",
         "parent": "CULTURE"
     },
     "CULTURE:THEATRE": {
-        "code": "CULTURE:THEATRE",
         "ecc": "03.05",
         "name": "Theatre",
         "parent": "CULTURE"
     },
-    "FAIR-CONGRESS": {
-        "code": "FAIR-CONGRESS",
+    "FAIRS": {
         "ecc": "05",
-        "name": "Fairs/Congresses"
+        "name": "Fairs"
     },
-    "FAIR-CONGRESS:BUSINESS": {
-        "code": "FAIR-CONGRESS:BUSINESS",
+    "FAIRS:ART": {
+        "ecc": "05.03",
+        "name": "Art",
+        "parent": "FAIRS"
+    },
+    "FAIRS:BUSINESS": {
         "ecc": "05.02",
         "name": "Business",
-        "parent": "FAIR-CONGRESS"
+        "parent": "FAIRS"
     },
-    "FAIR-CONGRESS:LEISURE-HOBBY": {
-        "code": "FAIR-CONGRESS:LEISURE-HOBBY",
+    "FAIRS:LIFESTYLE": {
+        "ecc": "05.04",
+        "name": "Lifestyle",
+        "parent": "FAIRS"
+    },
+    "FAIRS:MULTIMEDIA": {
+        "ecc": "05.05",
+        "name": "Multimedia",
+        "parent": "FAIRS"
+    },
+    "FAIRS:HOBBY": {
         "ecc": "05.01",
-        "name": "Leisure:Hobby",
-        "parent": "FAIR-CONGRESS"
+        "name": "Hobby",
+        "parent": "FAIRS"
+    },
+    "FAIRS:OTHER": {
+        "ecc": "05.06",
+        "name": "Other",
+        "parent": "FAIRS"
     },
     "MUSIC": {
-        "code": "MUSIC",
         "ecc": "01",
         "name": "Music"
     },
     "MUSIC:70s": {
-        "code": "MUSIC:70s",
         "ecc": "01.10",
         "name": "70s",
-        "parent": "MUSIC"
+        "parent": "MUSIC",
+        "deprecated": true
     },
     "MUSIC:80s": {
-        "code": "MUSIC:80s",
         "ecc": "01.11",
         "name": "80s",
-        "parent": "MUSIC"
+        "parent": "MUSIC",
+        "deprecated": true
     },
     "MUSIC:90s": {
-        "code": "MUSIC:90s",
         "ecc": "01.12",
         "name": "90s",
-        "parent": "MUSIC"
+        "parent": "MUSIC",
+        "deprecated": true
     },
     "MUSIC:APRESSKI": {
-        "code": "MUSIC:APRESSKI",
         "ecc": "01.01",
         "name": "Apres-ski",
-        "parent": "MUSIC"
+        "parent": "MUSIC",
+        "deprecated": true
     },
     "MUSIC:CLASSICAL": {
-        "code": "MUSIC:CLASSICAL",
         "ecc": "01.08",
         "name": "Classical",
         "parent": "MUSIC"
     },
     "MUSIC:DANCE": {
-        "code": "MUSIC:DANCE",
         "ecc": "01.02",
         "name": "Dance",
         "parent": "MUSIC"
     },
     "MUSIC:DANCE:ACID": {
         "ecc": "01.02.01",
-        "name": "Acid",
+        "name": "Acid House",
         "parent": "MUSIC:DANCE"
     },
     "MUSIC:DANCE:ALTERNATIVE": {
@@ -117,21 +138,49 @@
     "MUSIC:DANCE:CLUB": {
         "ecc": "01.02.03",
         "name": "Club",
-        "parent": "MUSIC:DANCE"
+        "parent": "MUSIC:DANCE",
+        "deprecated": true
     },
     "MUSIC:DANCE:DISCO": {
         "ecc": "01.02.04",
         "name": "Disco",
+        "parent": "MUSIC:DANCE",
+        "deprecated": true
+    },
+    "MUSIC:DANCE:DEEP-HOUSE": {
+        "ecc": "01.02.19",
+        "name": "Deep House",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:DRUM&BASS": {
+        "ecc": "01.02.20",
+        "name": "Drum & bass",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:DUBSTEP": {
+        "ecc": "01.02.21",
+        "name": "Dubstep",
         "parent": "MUSIC:DANCE"
     },
     "MUSIC:DANCE:ECLECTIC": {
         "ecc": "01.02.05",
         "name": "Eclectic",
+        "parent": "MUSIC:DANCE",
+        "deprecated": true
+    },
+    "MUSIC:DANCE:EDM": {
+        "ecc": "01.02.26",
+        "name": "EDM",
         "parent": "MUSIC:DANCE"
     },
-    "MUSIC:DANCE:ELECTRONIC": {
+    "MUSIC:DANCE:ELECTRONICA": {
         "ecc": "01.02.06",
-        "name": "Electronic",
+        "name": "Electronica",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:ELECTRIC-HOUSE": {
+        "ecc": "01.02.22",
+        "name": "Electric house",
         "parent": "MUSIC:DANCE"
     },
     "MUSIC:DANCE:GARAGE": {
@@ -149,9 +198,9 @@
         "name": "Hardstyle",
         "parent": "MUSIC:DANCE"
     },
-    "MUSIC:DANCE:HOUSE": {
+    "MUSIC:DANCE:CLASSIC-HOUSE": {
         "ecc": "01.02.10",
-        "name": "House",
+        "name": "Classic House",
         "parent": "MUSIC:DANCE"
     },
     "MUSIC:DANCE:LATIN": {
@@ -164,14 +213,19 @@
         "name": "Lounge",
         "parent": "MUSIC:DANCE"
     },
-    "MUSIC:DANCE:MINIMAL-TECHNO": {
+    "MUSIC:DANCE:MINIMAL": {
         "ecc": "01.02.13",
-        "name": "Minimal/Techno",
+        "name": "Minimal",
         "parent": "MUSIC:DANCE"
     },
-    "MUSIC:DANCE:PROGRESSIVE": {
+    "MUSIC:DANCE:PROGRESSIVE-HOUSE": {
         "ecc": "01.02.14",
-        "name": "Progressive",
+        "name": "Progressive House",
+        "parent": "MUSIC:DANCE"
+    },
+    "MUSIC:DANCE:SUBGROUND": {
+        "ecc": "01.02.23",
+        "name": "Subground",
         "parent": "MUSIC:DANCE"
     },
     "MUSIC:DANCE:TECHNO": {
@@ -179,168 +233,330 @@
         "name": "Techno",
         "parent": "MUSIC:DANCE"
     },
+    "MUSIC:DANCE:TECH-HOUSE": {
+        "ecc": "01.02.24",
+        "name": "Tech House",
+        "parent": "MUSIC:DANCE"
+    },
     "MUSIC:DANCE:TRANCE": {
         "ecc": "01.02.16",
         "name": "Trance",
         "parent": "MUSIC:DANCE"
     },
+    "MUSIC:DANCE:PSY-TRANCE-GOA": {
+        "ecc": "01.02.25",
+        "name": "Psy-Trance/Goa",
+        "parent": "MUSIC:DANCE"
+    },
     "MUSIC:DANCE:ADE": {
-        "code": "MUSIC:DANCE:ADE",
         "ecc": "01.02.18",
         "name": "ADE",
-        "parent": "MUSIC:DANCE"
+        "parent": "MUSIC:DANCE",
+        "deprecated": true
     },
     "MUSIC:DANCE:URBAN": {
-        "code": "MUSIC:DANCE:URBAN",
         "ecc": "01.02.17",
         "name": "Urban",
-        "parent": "MUSIC:DANCE"
+        "parent": "MUSIC:DANCE",
+        "deprecated": true
     },
-    "MUSIC:DUTCH": {
-        "code": "MUSIC:DUTCH",
-        "ecc": "01.06",
-        "name": "Dutch",
+    "MUSIC:DISCO": {
+        "ecc": "01.21",
+        "name": "Disco",
         "parent": "MUSIC"
     },
+    "MUSIC:DISCO:GROOVES": {
+        "ecc": "01.21.01",
+        "name": "Grooves",
+        "parent": "MUSIC"
+    },
+    "MUSIC:DUTCH": {
+        "ecc": "01.06",
+        "name": "Dutch",
+        "parent": "MUSIC",
+        "deprecated": true
+    },
     "MUSIC:FESTIVAL": {
-        "code": "MUSIC:FESTIVAL",
         "ecc": "01.03",
-        "name": "Festival",
+        "name": "Music Festival",
         "parent": "MUSIC"
     },
     "MUSIC:GAY": {
-        "code": "MUSIC:GAY",
         "ecc": "01.13",
         "name": "Gay",
         "parent": "MUSIC"
     },
     "MUSIC:HARDROCK-METAL": {
-        "code": "MUSIC:HARDROCK-METAL",
         "ecc": "01.04",
         "name": "Hard Rock/Metal",
         "parent": "MUSIC"
     },
-    "MUSIC:HIPHOP-R&B": {
-        "code": "MUSIC:HIPHOP-R&B",
+    "MUSIC:HIPHOP": {
         "ecc": "01.05",
-        "name": "Hip-Hop/R&B",
+        "name": "Hip-Hop",
         "parent": "MUSIC"
     },
     "MUSIC:JAZZ-BLUES-SOUL": {
-        "code": "MUSIC:JAZZ-BLUES-SOUL",
         "ecc": "01.07",
         "name": "Jazz/Blues/Soul",
         "parent": "MUSIC"
     },
-    "MUSIC:OTHER": {
-        "code": "MUSIC:OTHER",
-        "ecc": "01.14",
+    "MUSIC:LOCAL": {
+        "ecc": "01.16",
+        "name": "Local",
+        "parent": "MUSIC"
+    },
+    "MUSIC:LOCAL:GERMAN": {
+        "ecc": "01.16.01",
+        "name": "German",
+        "parent": "MUSIC:LOCAL"
+    },
+    "MUSIC:LOCAL:FRENCH": {
+        "ecc": "01.16.02",
+        "name": "French",
+        "parent": "MUSIC:LOCAL"
+    },
+    "MUSIC:LOCAL:DUTCH": {
+        "ecc": "01.16.03",
+        "name": "Dutch",
+        "parent": "MUSIC:LOCAL"
+    },
+    "MUSIC:LOCAL:OTHER": {
+        "ecc": "01.16.04",
         "name": "Other",
+        "parent": "MUSIC:LOCAL"
+    },
+    "MUSIC:PARTY": {
+        "ecc": "01.17",
+        "name": "Party",
+        "parent": "MUSIC"
+    },
+    "MUSIC:PARTY:APRES-SKI": {
+        "ecc": "01.17.01",
+        "name": "Apres-ski",
+        "parent": "MUSIC:PARTY"
+    },
+    "MUSIC:PARTY:50s": {
+        "ecc": "01.17.02",
+        "name": "50s",
+        "parent": "MUSIC:PARTY"
+    },
+    "MUSIC:PARTY:60s": {
+        "ecc": "01.17.03",
+        "name": "60s",
+        "parent": "MUSIC:PARTY"
+    },
+    "MUSIC:PARTY:70s": {
+        "ecc": "01.17.04",
+        "name": "70s",
+        "parent": "MUSIC:PARTY"
+    },
+    "MUSIC:PARTY:80s": {
+        "ecc": "01.17.05",
+        "name": "80s",
+        "parent": "MUSIC:PARTY"
+    },
+    "MUSIC:PARTY:90s": {
+        "ecc": "01.17.06",
+        "name": "90s",
+        "parent": "MUSIC:PARTY"
+    },
+    "MUSIC:PARTY:00s": {
+        "ecc": "01.17.07",
+        "name": "00s",
+        "parent": "MUSIC:PARTY"
+    },
+    "MUSIC:R&B": {
+        "ecc": "01.18",
+        "name": "R&B",
+        "parent": "MUSIC"
+    },
+    "MUSIC:REGGAE": {
+        "ecc": "01.19",
+        "name": "Reggae",
+        "parent": "MUSIC"
+    },
+    "MUSIC:OTHER": {
+        "ecc": "01.14",
+        "name": "Other Music",
         "parent": "MUSIC"
     },
     "MUSIC:ROCK-POP": {
-        "code": "MUSIC:ROCK-POP",
         "ecc": "01.09",
         "name": "Rock/Pop",
         "parent": "MUSIC"
     },
+    "MUSIC:ROCK-POP:INDIE": {
+        "ecc": "01.09.01",
+        "name": "Indie",
+        "parent": "MUSIC:ROCK-POP"
+    },
+    "MUSIC:ROCK-POP:LOCAL": {
+        "ecc": "01.09.02",
+        "name": "Local",
+        "parent": "MUSIC:ROCK-POP"
+    },
+    "MUSIC:ROCK-POP:ROCKABILLY": {
+        "ecc": "01.09.03",
+        "name": "Rockabilly",
+        "parent": "MUSIC:ROCK-POP"
+    },
+    "MUSIC:ROCK-POP:ROCK-N-ROLL": {
+        "ecc": "01.09.04",
+        "name": "Rock 'n Roll",
+        "parent": "MUSIC:ROCK-POP"
+    },
+    "MUSIC:ROCK-POP:ROOTS": {
+        "ecc": "01.09.05",
+        "name": "Roots",
+        "parent": "MUSIC:ROCK-POP"
+    },
+    "MUSIC:URBAN": {
+        "ecc": "01.20",
+        "name": "Urban",
+        "parent": "MUSIC"
+    },
+    "MUSIC:WORLD-MUSIC": {
+        "ecc": "01.15",
+        "name": "World music",
+        "parent": "MUSIC"
+    },
     "RECREATION": {
-        "code": "RECREATION",
         "ecc": "04",
         "name": "Recreation"
     },
     "RECREATION:AMUSEMENTPARK": {
-        "code": "RECREATION:AMUSEMENTPARK",
         "ecc": "04.01",
         "name": "Amusement parks",
         "parent": "RECREATION"
     },
+    "RECREATION:FESTIVAL": {
+        "ecc": "04.05",
+        "name": "Festival",
+        "parent": "RECREATION"
+    },
     "RECREATION:MUSEUM": {
-        "code": "RECREATION:MUSEUM",
         "ecc": "04.02",
         "name": "Museums",
+        "parent": "RECREATION",
+        "deprecated": true
+    },
+    "RECREATION:ZOOS": {
+        "ecc": "04.04",
+        "name": "Zoos",
         "parent": "RECREATION"
     },
     "RECREATION:OTHER": {
-        "code": "RECREATION:OTHER",
         "ecc": "04.03",
         "name": "Other",
         "parent": "RECREATION"
     },
     "SPORTS": {
-        "code": "SPORTS",
         "ecc": "02",
         "name": "Sports"
     },
+    "SPORTS:ATHLETIC": {
+        "ecc": "02.12",
+        "name": "Athletic",
+        "parent": "SPORTS"
+    },
     "SPORTS:BASEBALL": {
-        "code": "SPORTS:BASEBALL",
         "ecc": "02.03",
         "name": "Baseball",
         "parent": "SPORTS"
     },
     "SPORTS:BASKETBALL": {
-        "code": "SPORTS:BASKETBALL",
         "ecc": "02.01",
         "name": "Basketball",
         "parent": "SPORTS"
     },
+    "SPORTS:EQUESTRIAN": {
+        "ecc": "02.16",
+        "name": "Equestrian",
+        "parent": "SPORTS"
+    },
     "SPORTS:FOOTBALL": {
-        "code": "SPORTS:FOOTBALL",
         "ecc": "02.09",
         "name": "Football",
         "parent": "SPORTS"
     },
     "SPORTS:HANDBALL": {
-        "code": "SPORTS:HANDBALL",
         "ecc": "02.02",
         "name": "Handball",
         "parent": "SPORTS"
     },
+    "SPORTS:HOCKEY": {
+        "ecc": "02.14",
+        "name": "Hockey",
+        "parent": "SPORTS"
+    },
     "SPORTS:ICESKATING": {
-        "code": "SPORTS:ICESKATING",
         "ecc": "02.07",
         "name": "Ice skating",
         "parent": "SPORTS"
     },
+    "SPORTS:ICEHOCKEY": {
+        "ecc": "02.15",
+        "name": "Icehockey",
+        "parent": "SPORTS"
+    },
     "SPORTS:KORFBALL": {
-        "code": "SPORTS:KORFBALL",
         "ecc": "02.04",
         "name": "Korfball",
         "parent": "SPORTS"
     },
     "SPORTS:MOTOR": {
-        "code": "SPORTS:MOTOR",
         "ecc": "02.05",
         "name": "Motor sports",
         "parent": "SPORTS"
     },
     "SPORTS:OTHER": {
-        "code": "SPORTS:OTHER",
         "ecc": "02.11",
         "name": "Other",
         "parent": "SPORTS"
     },
     "SPORTS:RUGBY": {
-        "code": "SPORTS:RUGBY",
         "ecc": "02.06",
         "name": "Rugby",
         "parent": "SPORTS"
     },
+    "SPORTS:RUNNING": {
+        "ecc": "02.13",
+        "name": "Running",
+        "parent": "SPORTS"
+    },
+    "SPORTS:SWIMMING": {
+        "ecc": "02.18",
+        "name": "Swimming",
+        "parent": "SPORTS"
+    },
     "SPORTS:TENNIS": {
-        "code": "SPORTS:TENNIS",
         "ecc": "02.08",
         "name": "Tennis",
         "parent": "SPORTS"
     },
     "SPORTS:VOLLEYBALL": {
-        "code": "SPORTS:VOLLEYBALL",
         "ecc": "02.10",
         "name": "Volleyball",
         "parent": "SPORTS"
     },
+    "SPORTS:WATERSPORTS": {
+        "ecc": "02.17",
+        "name": "Water sports",
+        "parent": "SPORTS"
+    },
     "TELEVISION": {
-        "code": "TELEVISION",
         "ecc": "06",
         "name": "Television"
+    },
+    "TELEVISION:SHOW": {
+        "ecc": "06.01",
+        "name": "Show",
+        "parent": "TELEVISION"
+    },
+    "TELEVISION:OTHER": {
+        "ecc": "06.02",
+        "name": "Other",
+        "parent": "TELEVISION"
     }
 }

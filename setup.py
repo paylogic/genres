@@ -22,6 +22,10 @@ class ExportJSON(Command):
             source=os.path.join(dirname, 'src', 'paylogic_genres.json'),
             output=os.path.join(dirname, 'paylogic_genres.json'),
         )
+        export_genres(
+            source=os.path.join(dirname, 'src', 'paylogic_genres.json'),
+            output=os.path.join(dirname, 'paylogic_genres', 'paylogic_genres.json'),
+        )
 
 kwargs = {}
 
@@ -48,7 +52,7 @@ setup(
     #long_description=__doc__,
     author='Paylogic',
     license='MIT license',
-    version='0.1.5',
+    version='1.0.0',
     cmdclass={
         'export_json': ExportJSON,
     },
