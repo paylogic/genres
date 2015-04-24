@@ -21,8 +21,9 @@ def export_genres(source, output):
     result = {}
     for code, genre in genres.iteritems():
         item = {
-            'name': {},
-            'ecc': genre['ecc']
+            'name': {'en': genre['name']},
+            'ecc': genre['ecc'],
+            'deprecated': genre.get('deprecated', False)
         }
         if 'parent' in genre:
             item['parent'] = genre['parent']
