@@ -3,13 +3,13 @@
         "deprecated": false, 
         "ecc": "02.15", 
         "name": {
-            "fr": "SPORTS:ICEHOCKEY", 
-            "en": "SPORTS:ICEHOCKEY", 
-            "nl": "SPORTS:ICEHOCKEY", 
-            "pt": "SPORTS:ICEHOCKEY", 
-            "de": "SPORTS:ICEHOCKEY", 
-            "tr": "SPORTS:ICEHOCKEY", 
-            "es": "SPORTS:ICEHOCKEY"
+            "fr": "Hockey sur glace", 
+            "en": "Icehockey", 
+            "nl": "IJshockey", 
+            "pt": "Icehockey", 
+            "de": "ADE", 
+            "tr": "Icehockey", 
+            "es": "Hockey sobre hielo"
         }, 
         "parent": "SPORTS"
     }, 
@@ -45,26 +45,26 @@
         "deprecated": false, 
         "ecc": "05", 
         "name": {
-            "fr": "FAIRS", 
-            "en": "FAIRS", 
-            "nl": "FAIRS", 
-            "pt": "FAIRS", 
-            "de": "FAIRS", 
-            "tr": "FAIRS", 
-            "es": "FAIRS"
+            "fr": "Conventions", 
+            "en": "Fairs", 
+            "nl": "Beurs", 
+            "pt": "Fairs", 
+            "de": "Messen", 
+            "tr": "Fairs", 
+            "es": "Ferias"
         }
     }, 
     "MUSIC:PARTY": {
         "deprecated": false, 
         "ecc": "01.17", 
         "name": {
-            "fr": "MUSIC:PARTY", 
-            "en": "MUSIC:PARTY", 
-            "nl": "MUSIC:PARTY", 
-            "pt": "MUSIC:PARTY", 
-            "de": "MUSIC:PARTY", 
-            "tr": "MUSIC:PARTY", 
-            "es": "MUSIC:PARTY"
+            "fr": "F\u00eate", 
+            "en": "Party", 
+            "nl": "Party", 
+            "pt": "Party", 
+            "de": "Party", 
+            "tr": "Party", 
+            "es": "Fiesta"
         }, 
         "parent": "MUSIC"
     }, 
@@ -72,13 +72,13 @@
         "deprecated": false, 
         "ecc": "01.02.23", 
         "name": {
-            "fr": "MUSIC:DANCE:SUBGROUND", 
-            "en": "MUSIC:DANCE:SUBGROUND", 
-            "nl": "MUSIC:DANCE:SUBGROUND", 
-            "pt": "MUSIC:DANCE:SUBGROUND", 
-            "de": "MUSIC:DANCE:SUBGROUND", 
-            "tr": "MUSIC:DANCE:SUBGROUND", 
-            "es": "MUSIC:DANCE:SUBGROUND"
+            "fr": "subground", 
+            "en": "Subground", 
+            "nl": "Subground", 
+            "pt": "Subground", 
+            "de": "Subground", 
+            "tr": "Subground", 
+            "es": "Subsuelo"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -86,13 +86,13 @@
         "deprecated": false, 
         "ecc": "01.21.01", 
         "name": {
-            "fr": "MUSIC:DISCO:GROOVES", 
-            "en": "MUSIC:DISCO:GROOVES", 
-            "nl": "MUSIC:DISCO:GROOVES", 
-            "pt": "MUSIC:DISCO:GROOVES", 
-            "de": "MUSIC:DISCO:GROOVES", 
-            "tr": "MUSIC:DISCO:GROOVES", 
-            "es": "MUSIC:DISCO:GROOVES"
+            "fr": "Grooves", 
+            "en": "Grooves", 
+            "nl": "Grooves", 
+            "pt": "Grooves", 
+            "de": "Grooves", 
+            "tr": "Grooves", 
+            "es": "Ritmos"
         }, 
         "parent": "MUSIC"
     }, 
@@ -100,13 +100,13 @@
         "deprecated": false, 
         "ecc": "05.04", 
         "name": {
-            "fr": "FAIRS:LIFESTYLE", 
-            "en": "FAIRS:LIFESTYLE", 
-            "nl": "FAIRS:LIFESTYLE", 
-            "pt": "FAIRS:LIFESTYLE", 
-            "de": "FAIRS:LIFESTYLE", 
-            "tr": "FAIRS:LIFESTYLE", 
-            "es": "FAIRS:LIFESTYLE"
+            "fr": "Mode de vie", 
+            "en": "Lifestyle", 
+            "nl": "Lifestyle", 
+            "pt": "Lifestyle", 
+            "de": "Lifestyle", 
+            "tr": "Lifestyle", 
+            "es": "Estilo de vida"
         }, 
         "parent": "FAIRS"
     }, 
@@ -128,13 +128,13 @@
         "deprecated": false, 
         "ecc": "05.01", 
         "name": {
-            "fr": "FAIRS:HOBBY", 
-            "en": "FAIRS:HOBBY", 
-            "nl": "FAIRS:HOBBY", 
-            "pt": "FAIRS:HOBBY", 
-            "de": "FAIRS:HOBBY", 
-            "tr": "FAIRS:HOBBY", 
-            "es": "FAIRS:HOBBY"
+            "fr": "Hobby", 
+            "en": "Hobby", 
+            "nl": "Hobby", 
+            "pt": "Hobby", 
+            "de": "Hobby", 
+            "tr": "Hobby", 
+            "es": "Hobby"
         }, 
         "parent": "FAIRS"
     }, 
@@ -156,13 +156,13 @@
         "deprecated": false, 
         "ecc": "01.02.20", 
         "name": {
-            "fr": "MUSIC:DANCE:DRUM&BASS", 
-            "en": "MUSIC:DANCE:DRUM&BASS", 
-            "nl": "MUSIC:DANCE:DRUM&BASS", 
-            "pt": "MUSIC:DANCE:DRUM&BASS", 
-            "de": "MUSIC:DANCE:DRUM&BASS", 
-            "tr": "MUSIC:DANCE:DRUM&BASS", 
-            "es": "MUSIC:DANCE:DRUM&BASS"
+            "fr": "Drum & Bass", 
+            "en": "Drum & bass", 
+            "nl": "Drum & bass", 
+            "pt": "Drum & bass", 
+            "de": "Drum & bass", 
+            "tr": "Drum & bass", 
+            "es": "Bater\u00eda y bajo"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -176,7 +176,7 @@
             "pt": "Latin", 
             "de": "Latin", 
             "tr": "Latin", 
-            "es": "Latin"
+            "es": "Latino"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -198,13 +198,13 @@
         "deprecated": false, 
         "ecc": "01.17.06", 
         "name": {
-            "fr": "MUSIC:PARTY:90s", 
-            "en": "MUSIC:PARTY:90s", 
-            "nl": "MUSIC:PARTY:90s", 
-            "pt": "MUSIC:PARTY:90s", 
-            "de": "MUSIC:PARTY:90s", 
-            "tr": "MUSIC:PARTY:90s", 
-            "es": "MUSIC:PARTY:90s"
+            "fr": "Ann\u00e9es 90", 
+            "en": "90s", 
+            "nl": "90s", 
+            "pt": "90s", 
+            "de": "90s", 
+            "tr": "90s", 
+            "es": "A\u00f1os 90"
         }, 
         "parent": "MUSIC:PARTY"
     }, 
@@ -212,13 +212,13 @@
         "deprecated": false, 
         "ecc": "01.17.07", 
         "name": {
-            "fr": "MUSIC:PARTY:00s", 
-            "en": "MUSIC:PARTY:00s", 
-            "nl": "MUSIC:PARTY:00s", 
-            "pt": "MUSIC:PARTY:00s", 
-            "de": "MUSIC:PARTY:00s", 
-            "tr": "MUSIC:PARTY:00s", 
-            "es": "MUSIC:PARTY:00s"
+            "fr": "Ann\u00e9es 00", 
+            "en": "00s", 
+            "nl": "00s", 
+            "pt": "00s", 
+            "de": "00s", 
+            "tr": "00s", 
+            "es": "A\u00f1os 00"
         }, 
         "parent": "MUSIC:PARTY"
     }, 
@@ -226,13 +226,13 @@
         "deprecated": false, 
         "ecc": "04.04", 
         "name": {
-            "fr": "RECREATION:ZOOS", 
-            "en": "RECREATION:ZOOS", 
-            "nl": "RECREATION:ZOOS", 
-            "pt": "RECREATION:ZOOS", 
-            "de": "RECREATION:ZOOS", 
-            "tr": "RECREATION:ZOOS", 
-            "es": "RECREATION:ZOOS"
+            "fr": "Zoo", 
+            "en": "Zoos", 
+            "nl": "Dierenparken", 
+            "pt": "Zoos", 
+            "de": "Zoos", 
+            "tr": "Zoos", 
+            "es": "Zoos"
         }, 
         "parent": "RECREATION"
     }, 
@@ -240,13 +240,13 @@
         "deprecated": false, 
         "ecc": "02.14", 
         "name": {
-            "fr": "SPORTS:HOCKEY", 
-            "en": "SPORTS:HOCKEY", 
-            "nl": "SPORTS:HOCKEY", 
-            "pt": "SPORTS:HOCKEY", 
-            "de": "SPORTS:HOCKEY", 
-            "tr": "SPORTS:HOCKEY", 
-            "es": "SPORTS:HOCKEY"
+            "fr": "Hockey", 
+            "en": "Hockey", 
+            "nl": "Hockey", 
+            "pt": "Hockey", 
+            "de": "Hockey", 
+            "tr": "Hockey", 
+            "es": "Hockey"
         }, 
         "parent": "SPORTS"
     }, 
@@ -254,13 +254,13 @@
         "deprecated": false, 
         "ecc": "02.13", 
         "name": {
-            "fr": "SPORTS:RUNNING", 
-            "en": "SPORTS:RUNNING", 
-            "nl": "SPORTS:RUNNING", 
-            "pt": "SPORTS:RUNNING", 
-            "de": "SPORTS:RUNNING", 
-            "tr": "SPORTS:RUNNING", 
-            "es": "SPORTS:RUNNING"
+            "fr": "Courir", 
+            "en": "Running", 
+            "nl": "Hardlopen", 
+            "pt": "Running", 
+            "de": "Running", 
+            "tr": "Running", 
+            "es": "Correr"
         }, 
         "parent": "SPORTS"
     }, 
@@ -268,13 +268,13 @@
         "deprecated": false, 
         "ecc": "05.06", 
         "name": {
-            "fr": "FAIRS:OTHER", 
-            "en": "FAIRS:OTHER", 
-            "nl": "FAIRS:OTHER", 
-            "pt": "FAIRS:OTHER", 
-            "de": "FAIRS:OTHER", 
-            "tr": "FAIRS:OTHER", 
-            "es": "FAIRS:OTHER"
+            "fr": "Autre", 
+            "en": "Other", 
+            "nl": "Anders", 
+            "pt": "Other", 
+            "de": "Weiteres", 
+            "tr": "Other", 
+            "es": "Otras"
         }, 
         "parent": "FAIRS"
     }, 
@@ -282,13 +282,13 @@
         "deprecated": false, 
         "ecc": "01.09.03", 
         "name": {
-            "fr": "MUSIC:ROCK-POP:ROCKABILLY", 
-            "en": "MUSIC:ROCK-POP:ROCKABILLY", 
-            "nl": "MUSIC:ROCK-POP:ROCKABILLY", 
-            "pt": "MUSIC:ROCK-POP:ROCKABILLY", 
-            "de": "MUSIC:ROCK-POP:ROCKABILLY", 
-            "tr": "MUSIC:ROCK-POP:ROCKABILLY", 
-            "es": "MUSIC:ROCK-POP:ROCKABILLY"
+            "fr": "Rockabilly", 
+            "en": "Rockabilly", 
+            "nl": "Rockabilly", 
+            "pt": "Rockabilly", 
+            "de": "Rockabilly", 
+            "tr": "Rockabilly", 
+            "es": "Rockabilly"
         }, 
         "parent": "MUSIC:ROCK-POP"
     }, 
@@ -302,7 +302,7 @@
             "pt": "Eclectic", 
             "de": "Eclectic", 
             "tr": "Eclectic", 
-            "es": "Eclectic"
+            "es": "Ecl\u00e9ctica"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -365,13 +365,13 @@
         "deprecated": false, 
         "ecc": "01.09.04", 
         "name": {
-            "fr": "MUSIC:ROCK-POP:ROCK-N-ROLL", 
-            "en": "MUSIC:ROCK-POP:ROCK-N-ROLL", 
-            "nl": "MUSIC:ROCK-POP:ROCK-N-ROLL", 
-            "pt": "MUSIC:ROCK-POP:ROCK-N-ROLL", 
-            "de": "MUSIC:ROCK-POP:ROCK-N-ROLL", 
-            "tr": "MUSIC:ROCK-POP:ROCK-N-ROLL", 
-            "es": "MUSIC:ROCK-POP:ROCK-N-ROLL"
+            "fr": "Rock 'n Roll", 
+            "en": "Rock 'n Roll", 
+            "nl": "Rock 'n Roll", 
+            "pt": "Rock 'n Roll", 
+            "de": "Rock 'n Roll", 
+            "tr": "Rock 'n Roll", 
+            "es": "Rock 'n Roll"
         }, 
         "parent": "MUSIC:ROCK-POP"
     }, 
@@ -413,7 +413,7 @@
             "pt": "Techno", 
             "de": "Techno", 
             "tr": "Techno", 
-            "es": "Techno"
+            "es": "Tecno"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -435,13 +435,13 @@
         "deprecated": false, 
         "ecc": "01.09.01", 
         "name": {
-            "fr": "MUSIC:ROCK-POP:INDIE", 
-            "en": "MUSIC:ROCK-POP:INDIE", 
-            "nl": "MUSIC:ROCK-POP:INDIE", 
-            "pt": "MUSIC:ROCK-POP:INDIE", 
-            "de": "MUSIC:ROCK-POP:INDIE", 
-            "tr": "MUSIC:ROCK-POP:INDIE", 
-            "es": "MUSIC:ROCK-POP:INDIE"
+            "fr": "Indie", 
+            "en": "Indie", 
+            "nl": "Indie", 
+            "pt": "Indie", 
+            "de": "Indie", 
+            "tr": "Indie", 
+            "es": "Indie"
         }, 
         "parent": "MUSIC:ROCK-POP"
     }, 
@@ -449,13 +449,13 @@
         "deprecated": false, 
         "ecc": "01.02.19", 
         "name": {
-            "fr": "MUSIC:DANCE:DEEP-HOUSE", 
-            "en": "MUSIC:DANCE:DEEP-HOUSE", 
-            "nl": "MUSIC:DANCE:DEEP-HOUSE", 
-            "pt": "MUSIC:DANCE:DEEP-HOUSE", 
-            "de": "MUSIC:DANCE:DEEP-HOUSE", 
-            "tr": "MUSIC:DANCE:DEEP-HOUSE", 
-            "es": "MUSIC:DANCE:DEEP-HOUSE"
+            "fr": "Deep House", 
+            "en": "Deep House", 
+            "nl": "Deep House", 
+            "pt": "Deep House", 
+            "de": "Deep House", 
+            "tr": "Deep House", 
+            "es": "Deep House"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -463,13 +463,13 @@
         "deprecated": false, 
         "ecc": "01.16.03", 
         "name": {
-            "fr": "MUSIC:LOCAL:DUTCH", 
-            "en": "MUSIC:LOCAL:DUTCH", 
-            "nl": "MUSIC:LOCAL:DUTCH", 
-            "pt": "MUSIC:LOCAL:DUTCH", 
-            "de": "MUSIC:LOCAL:DUTCH", 
-            "tr": "MUSIC:LOCAL:DUTCH", 
-            "es": "MUSIC:LOCAL:DUTCH"
+            "fr": "N\u00e9erlandais", 
+            "en": "Dutch", 
+            "nl": "Nederlands", 
+            "pt": "Dutch", 
+            "de": "Holl\u00e4ndisch", 
+            "tr": "Dutch", 
+            "es": "Holandesa"
         }, 
         "parent": "MUSIC:LOCAL"
     }, 
@@ -491,13 +491,13 @@
         "deprecated": false, 
         "ecc": "01.05", 
         "name": {
-            "fr": "MUSIC:HIPHOP", 
-            "en": "MUSIC:HIPHOP", 
-            "nl": "MUSIC:HIPHOP", 
-            "pt": "MUSIC:HIPHOP", 
-            "de": "MUSIC:HIPHOP", 
-            "tr": "MUSIC:HIPHOP", 
-            "es": "MUSIC:HIPHOP"
+            "fr": "Hip-Hop", 
+            "en": "Hip-Hop", 
+            "nl": "Hip-Hop", 
+            "pt": "Hip-Hop", 
+            "de": "Hip-Hop", 
+            "tr": "Hip-Hop", 
+            "es": "Deep House"
         }, 
         "parent": "MUSIC"
     }, 
@@ -533,13 +533,13 @@
         "deprecated": false, 
         "ecc": "01.02.26", 
         "name": {
-            "fr": "MUSIC:DANCE:EDM", 
-            "en": "MUSIC:DANCE:EDM", 
-            "nl": "MUSIC:DANCE:EDM", 
-            "pt": "MUSIC:DANCE:EDM", 
-            "de": "MUSIC:DANCE:EDM", 
-            "tr": "MUSIC:DANCE:EDM", 
-            "es": "MUSIC:DANCE:EDM"
+            "fr": "EDM", 
+            "en": "EDM", 
+            "nl": "EDM", 
+            "pt": "EDM", 
+            "de": "EDM", 
+            "tr": "EDM", 
+            "es": "EDM"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -547,13 +547,13 @@
         "deprecated": false, 
         "ecc": "01.02.13", 
         "name": {
-            "fr": "MUSIC:DANCE:MINIMAL", 
-            "en": "MUSIC:DANCE:MINIMAL", 
-            "nl": "MUSIC:DANCE:MINIMAL", 
-            "pt": "MUSIC:DANCE:MINIMAL", 
-            "de": "MUSIC:DANCE:MINIMAL", 
-            "tr": "MUSIC:DANCE:MINIMAL", 
-            "es": "MUSIC:DANCE:MINIMAL"
+            "fr": "Minimal", 
+            "en": "Minimal", 
+            "nl": "Minimal", 
+            "pt": "Minimal", 
+            "de": "Minimal", 
+            "tr": "Minimal", 
+            "es": "Minimalista"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -617,13 +617,13 @@
         "deprecated": false, 
         "ecc": "01.15", 
         "name": {
-            "fr": "MUSIC:WORLD-MUSIC", 
-            "en": "MUSIC:WORLD-MUSIC", 
-            "nl": "MUSIC:WORLD-MUSIC", 
-            "pt": "MUSIC:WORLD-MUSIC", 
-            "de": "MUSIC:WORLD-MUSIC", 
-            "tr": "MUSIC:WORLD-MUSIC", 
-            "es": "MUSIC:WORLD-MUSIC"
+            "fr": "Musiques du monde", 
+            "en": "World music", 
+            "nl": "Wereldmuziek", 
+            "pt": "World music", 
+            "de": "Weltmusik", 
+            "tr": "World music", 
+            "es": "M\u00fasica del mundo"
         }, 
         "parent": "MUSIC"
     }, 
@@ -631,13 +631,13 @@
         "deprecated": false, 
         "ecc": "01.16", 
         "name": {
-            "fr": "MUSIC:LOCAL", 
-            "en": "MUSIC:LOCAL", 
-            "nl": "MUSIC:LOCAL", 
-            "pt": "MUSIC:LOCAL", 
-            "de": "MUSIC:LOCAL", 
-            "tr": "MUSIC:LOCAL", 
-            "es": "MUSIC:LOCAL"
+            "fr": "Local", 
+            "en": "Local", 
+            "nl": "Lokaal", 
+            "pt": "Local", 
+            "de": "Lokal", 
+            "tr": "Local", 
+            "es": "Local"
         }, 
         "parent": "MUSIC"
     }, 
@@ -687,13 +687,13 @@
         "deprecated": false, 
         "ecc": "01.16.02", 
         "name": {
-            "fr": "MUSIC:LOCAL:FRENCH", 
-            "en": "MUSIC:LOCAL:FRENCH", 
-            "nl": "MUSIC:LOCAL:FRENCH", 
-            "pt": "MUSIC:LOCAL:FRENCH", 
-            "de": "MUSIC:LOCAL:FRENCH", 
-            "tr": "MUSIC:LOCAL:FRENCH", 
-            "es": "MUSIC:LOCAL:FRENCH"
+            "fr": "Fran\u00e7ais", 
+            "en": "French", 
+            "nl": "Frans", 
+            "pt": "French", 
+            "de": "Franz\u00f6sisch", 
+            "tr": "French", 
+            "es": "Francesa"
         }, 
         "parent": "MUSIC:LOCAL"
     }, 
@@ -701,13 +701,13 @@
         "deprecated": false, 
         "ecc": "01.16.01", 
         "name": {
-            "fr": "MUSIC:LOCAL:GERMAN", 
-            "en": "MUSIC:LOCAL:GERMAN", 
-            "nl": "MUSIC:LOCAL:GERMAN", 
-            "pt": "MUSIC:LOCAL:GERMAN", 
-            "de": "MUSIC:LOCAL:GERMAN", 
-            "tr": "MUSIC:LOCAL:GERMAN", 
-            "es": "MUSIC:LOCAL:GERMAN"
+            "fr": "Allemand", 
+            "en": "German", 
+            "nl": "Duits", 
+            "pt": "German", 
+            "de": "German", 
+            "tr": "German", 
+            "es": "Alemana"
         }, 
         "parent": "MUSIC:LOCAL"
     }, 
@@ -715,13 +715,13 @@
         "deprecated": false, 
         "ecc": "03.08", 
         "name": {
-            "fr": "CULTURE:LITERATURE", 
-            "en": "CULTURE:LITERATURE", 
-            "nl": "CULTURE:LITERATURE", 
-            "pt": "CULTURE:LITERATURE", 
-            "de": "CULTURE:LITERATURE", 
-            "tr": "CULTURE:LITERATURE", 
-            "es": "CULTURE:LITERATURE"
+            "fr": "Lit\u00e9rature et cr\u00e9ations orales", 
+            "en": "Literature and spoken word", 
+            "nl": "Literatuur en gesproken woord", 
+            "pt": "Literature and spoken word", 
+            "de": "Literatur & gesprochenes Wort", 
+            "tr": "Literature and spoken word", 
+            "es": "Literatura y palabra hablada"
         }, 
         "parent": "CULTURE"
     }, 
@@ -743,13 +743,13 @@
         "deprecated": false, 
         "ecc": "01.17.01", 
         "name": {
-            "fr": "MUSIC:PARTY:APRES-SKI", 
-            "en": "MUSIC:PARTY:APRES-SKI", 
-            "nl": "MUSIC:PARTY:APRES-SKI", 
-            "pt": "MUSIC:PARTY:APRES-SKI", 
-            "de": "MUSIC:PARTY:APRES-SKI", 
-            "tr": "MUSIC:PARTY:APRES-SKI", 
-            "es": "MUSIC:PARTY:APRES-SKI"
+            "fr": "Apr\u00e8s-ski", 
+            "en": "Apres-ski", 
+            "nl": "Apres-ski", 
+            "pt": "Apres-ski", 
+            "de": "Apr\u00e8s-Ski", 
+            "tr": "Apres-ski", 
+            "es": "Apr\u00e8s-ski"
         }, 
         "parent": "MUSIC:PARTY"
     }, 
@@ -757,13 +757,13 @@
         "deprecated": false, 
         "ecc": "01.02.25", 
         "name": {
-            "fr": "MUSIC:DANCE:PSY-TRANCE-GOA", 
-            "en": "MUSIC:DANCE:PSY-TRANCE-GOA", 
-            "nl": "MUSIC:DANCE:PSY-TRANCE-GOA", 
-            "pt": "MUSIC:DANCE:PSY-TRANCE-GOA", 
-            "de": "MUSIC:DANCE:PSY-TRANCE-GOA", 
-            "tr": "MUSIC:DANCE:PSY-TRANCE-GOA", 
-            "es": "MUSIC:DANCE:PSY-TRANCE-GOA"
+            "fr": "Psy-Trance/Goa", 
+            "en": "Psy-Trance/Goa", 
+            "nl": "Psy-Trance/Goa", 
+            "pt": "Psy-Trance/Goa", 
+            "de": "Psy-Trance/Goa", 
+            "tr": "Psy-Trance/Goa", 
+            "es": "Psy-Trance/Goa"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -785,13 +785,13 @@
         "deprecated": false, 
         "ecc": "03.09", 
         "name": {
-            "fr": "CULTURE:MUSEUM", 
-            "en": "CULTURE:MUSEUM", 
-            "nl": "CULTURE:MUSEUM", 
-            "pt": "CULTURE:MUSEUM", 
-            "de": "CULTURE:MUSEUM", 
-            "tr": "CULTURE:MUSEUM", 
-            "es": "CULTURE:MUSEUM"
+            "fr": "Mus\u00e9e", 
+            "en": "Museum", 
+            "nl": "Museum", 
+            "pt": "Museum", 
+            "de": "Museum", 
+            "tr": "Museum", 
+            "es": "Museos"
         }, 
         "parent": "CULTURE"
     }, 
@@ -813,13 +813,13 @@
         "deprecated": false, 
         "ecc": "02.18", 
         "name": {
-            "fr": "SPORTS:SWIMMING", 
-            "en": "SPORTS:SWIMMING", 
-            "nl": "SPORTS:SWIMMING", 
-            "pt": "SPORTS:SWIMMING", 
-            "de": "SPORTS:SWIMMING", 
-            "tr": "SPORTS:SWIMMING", 
-            "es": "SPORTS:SWIMMING"
+            "fr": "Natation", 
+            "en": "Swimming", 
+            "nl": "Zwemmen", 
+            "pt": "Swimming", 
+            "de": "Schwimmen", 
+            "tr": "Swimming", 
+            "es": "Nataci\u00f3n"
         }, 
         "parent": "SPORTS"
     }, 
@@ -827,13 +827,13 @@
         "deprecated": false, 
         "ecc": "01.09.02", 
         "name": {
-            "fr": "MUSIC:ROCK-POP:LOCAL", 
-            "en": "MUSIC:ROCK-POP:LOCAL", 
-            "nl": "MUSIC:ROCK-POP:LOCAL", 
-            "pt": "MUSIC:ROCK-POP:LOCAL", 
-            "de": "MUSIC:ROCK-POP:LOCAL", 
-            "tr": "MUSIC:ROCK-POP:LOCAL", 
-            "es": "MUSIC:ROCK-POP:LOCAL"
+            "fr": "Local", 
+            "en": "Local", 
+            "nl": "Lokaal", 
+            "pt": "Local", 
+            "de": "Lokal", 
+            "tr": "Local", 
+            "es": "Local"
         }, 
         "parent": "MUSIC:ROCK-POP"
     }, 
@@ -841,13 +841,13 @@
         "deprecated": false, 
         "ecc": "06.02", 
         "name": {
-            "fr": "TELEVISION:OTHER", 
-            "en": "TELEVISION:OTHER", 
-            "nl": "TELEVISION:OTHER", 
-            "pt": "TELEVISION:OTHER", 
-            "de": "TELEVISION:OTHER", 
-            "tr": "TELEVISION:OTHER", 
-            "es": "TELEVISION:OTHER"
+            "fr": "Autre", 
+            "en": "Other", 
+            "nl": "Anders", 
+            "pt": "Other", 
+            "de": "Weiteres", 
+            "tr": "Other", 
+            "es": "Otros"
         }, 
         "parent": "TELEVISION"
     }, 
@@ -925,13 +925,13 @@
         "deprecated": false, 
         "ecc": "01.17.03", 
         "name": {
-            "fr": "MUSIC:PARTY:60s", 
-            "en": "MUSIC:PARTY:60s", 
-            "nl": "MUSIC:PARTY:60s", 
-            "pt": "MUSIC:PARTY:60s", 
-            "de": "MUSIC:PARTY:60s", 
-            "tr": "MUSIC:PARTY:60s", 
-            "es": "MUSIC:PARTY:60s"
+            "fr": "Ann\u00e9es 60", 
+            "en": "60s", 
+            "nl": "60s", 
+            "pt": "60s", 
+            "de": "60s", 
+            "tr": "60s", 
+            "es": "A\u00f1os 60"
         }, 
         "parent": "MUSIC:PARTY"
     }, 
@@ -967,13 +967,13 @@
         "deprecated": false, 
         "ecc": "03.10", 
         "name": {
-            "fr": "CULTURE:SYMPHONY", 
-            "en": "CULTURE:SYMPHONY", 
-            "nl": "CULTURE:SYMPHONY", 
-            "pt": "CULTURE:SYMPHONY", 
-            "de": "CULTURE:SYMPHONY", 
-            "tr": "CULTURE:SYMPHONY", 
-            "es": "CULTURE:SYMPHONY"
+            "fr": "Symphonie", 
+            "en": "Symphony", 
+            "nl": "Symfonie", 
+            "pt": "Symphony", 
+            "de": "Symphonie", 
+            "tr": "Symphony", 
+            "es": "Sinfon\u00eda"
         }, 
         "parent": "CULTURE"
     }, 
@@ -1009,13 +1009,13 @@
         "deprecated": false, 
         "ecc": "02.12", 
         "name": {
-            "fr": "SPORTS:ATHLETIC", 
-            "en": "SPORTS:ATHLETIC", 
-            "nl": "SPORTS:ATHLETIC", 
-            "pt": "SPORTS:ATHLETIC", 
-            "de": "SPORTS:ATHLETIC", 
-            "tr": "SPORTS:ATHLETIC", 
-            "es": "SPORTS:ATHLETIC"
+            "fr": "Athl\u00e9tique", 
+            "en": "Athletic", 
+            "nl": "Atletiek", 
+            "pt": "Athletic", 
+            "de": "Sportlich", 
+            "tr": "Athletic", 
+            "es": "Atl\u00e9tico"
         }, 
         "parent": "SPORTS"
     }, 
@@ -1037,13 +1037,13 @@
         "deprecated": false, 
         "ecc": "01.18", 
         "name": {
-            "fr": "MUSIC:R&B", 
-            "en": "MUSIC:R&B", 
-            "nl": "MUSIC:R&B", 
-            "pt": "MUSIC:R&B", 
-            "de": "MUSIC:R&B", 
-            "tr": "MUSIC:R&B", 
-            "es": "MUSIC:R&B"
+            "fr": "R&B", 
+            "en": "R&B", 
+            "nl": "R&B", 
+            "pt": "R&B", 
+            "de": "R&B", 
+            "tr": "R&B", 
+            "es": "R&B"
         }, 
         "parent": "MUSIC"
     }, 
@@ -1051,13 +1051,13 @@
         "deprecated": false, 
         "ecc": "05.02", 
         "name": {
-            "fr": "FAIRS:BUSINESS", 
-            "en": "FAIRS:BUSINESS", 
-            "nl": "FAIRS:BUSINESS", 
-            "pt": "FAIRS:BUSINESS", 
-            "de": "FAIRS:BUSINESS", 
-            "tr": "FAIRS:BUSINESS", 
-            "es": "FAIRS:BUSINESS"
+            "fr": "Affaires", 
+            "en": "Business", 
+            "nl": "Zakelijk", 
+            "pt": "Business", 
+            "de": "Unternehmen", 
+            "tr": "Business", 
+            "es": "Negocios"
         }, 
         "parent": "FAIRS"
     }, 
@@ -1065,13 +1065,13 @@
         "deprecated": false, 
         "ecc": "02.16", 
         "name": {
-            "fr": "SPORTS:EQUESTRIAN", 
-            "en": "SPORTS:EQUESTRIAN", 
-            "nl": "SPORTS:EQUESTRIAN", 
-            "pt": "SPORTS:EQUESTRIAN", 
-            "de": "SPORTS:EQUESTRIAN", 
-            "tr": "SPORTS:EQUESTRIAN", 
-            "es": "SPORTS:EQUESTRIAN"
+            "fr": "Sports hippique", 
+            "en": "Equestrian", 
+            "nl": "Paardensport", 
+            "pt": "Equestrian", 
+            "de": "Reitsport", 
+            "tr": "Equestrian", 
+            "es": "Ecuestre"
         }, 
         "parent": "SPORTS"
     }, 
@@ -1079,13 +1079,13 @@
         "deprecated": false, 
         "ecc": "01.17.02", 
         "name": {
-            "fr": "MUSIC:PARTY:50s", 
-            "en": "MUSIC:PARTY:50s", 
-            "nl": "MUSIC:PARTY:50s", 
-            "pt": "MUSIC:PARTY:50s", 
-            "de": "MUSIC:PARTY:50s", 
-            "tr": "MUSIC:PARTY:50s", 
-            "es": "MUSIC:PARTY:50s"
+            "fr": "Ann\u00e9es 50", 
+            "en": "50s", 
+            "nl": "50s", 
+            "pt": "50s", 
+            "de": "50s", 
+            "tr": "50s", 
+            "es": "A\u00f1os 50"
         }, 
         "parent": "MUSIC:PARTY"
     }, 
@@ -1107,13 +1107,13 @@
         "deprecated": false, 
         "ecc": "01.02.24", 
         "name": {
-            "fr": "MUSIC:DANCE:TECH-HOUSE", 
-            "en": "MUSIC:DANCE:TECH-HOUSE", 
-            "nl": "MUSIC:DANCE:TECH-HOUSE", 
-            "pt": "MUSIC:DANCE:TECH-HOUSE", 
-            "de": "MUSIC:DANCE:TECH-HOUSE", 
-            "tr": "MUSIC:DANCE:TECH-HOUSE", 
-            "es": "MUSIC:DANCE:TECH-HOUSE"
+            "fr": "Tech House", 
+            "en": "Tech House", 
+            "nl": "Tech House", 
+            "pt": "Tech House", 
+            "de": "Tech House", 
+            "tr": "Tech House", 
+            "es": "Tecno House"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -1121,13 +1121,13 @@
         "deprecated": false, 
         "ecc": "05.05", 
         "name": {
-            "fr": "FAIRS:MULTIMEDIA", 
-            "en": "FAIRS:MULTIMEDIA", 
-            "nl": "FAIRS:MULTIMEDIA", 
-            "pt": "FAIRS:MULTIMEDIA", 
-            "de": "FAIRS:MULTIMEDIA", 
-            "tr": "FAIRS:MULTIMEDIA", 
-            "es": "FAIRS:MULTIMEDIA"
+            "fr": "Multim\u00e9dia", 
+            "en": "Multimedia", 
+            "nl": "Multimedia", 
+            "pt": "Multimedia", 
+            "de": "Multimedia", 
+            "tr": "Multimedia", 
+            "es": "Multimedia"
         }, 
         "parent": "FAIRS"
     }, 
@@ -1141,7 +1141,7 @@
             "pt": "Alternative", 
             "de": "Alternative", 
             "tr": "Alternative", 
-            "es": "Alternative"
+            "es": "Alternativa"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -1149,13 +1149,13 @@
         "deprecated": false, 
         "ecc": "01.19", 
         "name": {
-            "fr": "MUSIC:REGGAE", 
-            "en": "MUSIC:REGGAE", 
-            "nl": "MUSIC:REGGAE", 
-            "pt": "MUSIC:REGGAE", 
-            "de": "MUSIC:REGGAE", 
-            "tr": "MUSIC:REGGAE", 
-            "es": "MUSIC:REGGAE"
+            "fr": "Reggae", 
+            "en": "Reggae", 
+            "nl": "Reggae", 
+            "pt": "Reggae", 
+            "de": "Reggae", 
+            "tr": "Reggae", 
+            "es": "Reggae"
         }, 
         "parent": "MUSIC"
     }, 
@@ -1190,48 +1190,6 @@
         "deprecated": false, 
         "ecc": "04.05", 
         "name": {
-            "fr": "RECREATION:FESTIVAL", 
-            "en": "RECREATION:FESTIVAL", 
-            "nl": "RECREATION:FESTIVAL", 
-            "pt": "RECREATION:FESTIVAL", 
-            "de": "RECREATION:FESTIVAL", 
-            "tr": "RECREATION:FESTIVAL", 
-            "es": "RECREATION:FESTIVAL"
-        }, 
-        "parent": "RECREATION"
-    }, 
-    "SPORTS:WATERSPORTS": {
-        "deprecated": false, 
-        "ecc": "02.17", 
-        "name": {
-            "fr": "SPORTS:WATERSPORTS", 
-            "en": "SPORTS:WATERSPORTS", 
-            "nl": "SPORTS:WATERSPORTS", 
-            "pt": "SPORTS:WATERSPORTS", 
-            "de": "SPORTS:WATERSPORTS", 
-            "tr": "SPORTS:WATERSPORTS", 
-            "es": "SPORTS:WATERSPORTS"
-        }, 
-        "parent": "SPORTS"
-    }, 
-    "MUSIC:DANCE:ELECTRONICA": {
-        "deprecated": false, 
-        "ecc": "01.02.06", 
-        "name": {
-            "fr": "MUSIC:DANCE:ELECTRONICA", 
-            "en": "MUSIC:DANCE:ELECTRONICA", 
-            "nl": "MUSIC:DANCE:ELECTRONICA", 
-            "pt": "MUSIC:DANCE:ELECTRONICA", 
-            "de": "MUSIC:DANCE:ELECTRONICA", 
-            "tr": "MUSIC:DANCE:ELECTRONICA", 
-            "es": "MUSIC:DANCE:ELECTRONICA"
-        }, 
-        "parent": "MUSIC:DANCE"
-    }, 
-    "MUSIC:FESTIVAL": {
-        "deprecated": false, 
-        "ecc": "01.03", 
-        "name": {
             "fr": "Festival", 
             "en": "Festival", 
             "nl": "Festival", 
@@ -1240,19 +1198,61 @@
             "tr": "Festival", 
             "es": "Festival"
         }, 
+        "parent": "RECREATION"
+    }, 
+    "SPORTS:WATERSPORTS": {
+        "deprecated": false, 
+        "ecc": "02.17", 
+        "name": {
+            "fr": "Sports nautiques", 
+            "en": "Water sports", 
+            "nl": "Watersport", 
+            "pt": "Water sports", 
+            "de": "Wassersport", 
+            "tr": "Water sports", 
+            "es": "Deportes acu\u00e1ticos"
+        }, 
+        "parent": "SPORTS"
+    }, 
+    "MUSIC:DANCE:ELECTRONICA": {
+        "deprecated": false, 
+        "ecc": "01.02.06", 
+        "name": {
+            "fr": "Electronica", 
+            "en": "Electronica", 
+            "nl": "Electronica", 
+            "pt": "Electronica", 
+            "de": "Electronica", 
+            "tr": "Electronica", 
+            "es": "Electr\u00f3nica"
+        }, 
+        "parent": "MUSIC:DANCE"
+    }, 
+    "MUSIC:FESTIVAL": {
+        "deprecated": false, 
+        "ecc": "01.03", 
+        "name": {
+            "fr": "Festival", 
+            "en": "Music Festival", 
+            "nl": "Festival", 
+            "pt": "Music Festival", 
+            "de": "Festival", 
+            "tr": "Music Festival", 
+            "es": "Festival"
+        }, 
         "parent": "MUSIC"
     }, 
     "MUSIC:ROCK-POP:ROOTS": {
         "deprecated": false, 
         "ecc": "01.09.05", 
         "name": {
-            "fr": "MUSIC:ROCK-POP:ROOTS", 
-            "en": "MUSIC:ROCK-POP:ROOTS", 
-            "nl": "MUSIC:ROCK-POP:ROOTS", 
-            "pt": "MUSIC:ROCK-POP:ROOTS", 
-            "de": "MUSIC:ROCK-POP:ROOTS", 
-            "tr": "MUSIC:ROCK-POP:ROOTS", 
-            "es": "MUSIC:ROCK-POP:ROOTS"
+            "fr": "Roots", 
+            "en": "Roots", 
+            "nl": "Roots", 
+            "pt": "Roots", 
+            "de": "Roots", 
+            "tr": "Roots", 
+            "es": "Roots"
         }, 
         "parent": "MUSIC:ROCK-POP"
     }, 
@@ -1260,13 +1260,13 @@
         "deprecated": false, 
         "ecc": "01.20", 
         "name": {
-            "fr": "MUSIC:URBAN", 
-            "en": "MUSIC:URBAN", 
-            "nl": "MUSIC:URBAN", 
-            "pt": "MUSIC:URBAN", 
-            "de": "MUSIC:URBAN", 
-            "tr": "MUSIC:URBAN", 
-            "es": "MUSIC:URBAN"
+            "fr": "Urb", 
+            "en": "Urban", 
+            "nl": "Urban", 
+            "pt": "Urban", 
+            "de": "Urban", 
+            "tr": "Urban", 
+            "es": "Urbana"
         }, 
         "parent": "MUSIC"
     }, 
@@ -1274,13 +1274,13 @@
         "deprecated": false, 
         "ecc": "01.17.05", 
         "name": {
-            "fr": "MUSIC:PARTY:80s", 
-            "en": "MUSIC:PARTY:80s", 
-            "nl": "MUSIC:PARTY:80s", 
-            "pt": "MUSIC:PARTY:80s", 
-            "de": "MUSIC:PARTY:80s", 
-            "tr": "MUSIC:PARTY:80s", 
-            "es": "MUSIC:PARTY:80s"
+            "fr": "nAnn\u00e9es 80", 
+            "en": "80s", 
+            "nl": "80s", 
+            "pt": "80s", 
+            "de": "80s", 
+            "tr": "80s", 
+            "es": "A\u00f1os 80"
         }, 
         "parent": "MUSIC:PARTY"
     }, 
@@ -1288,13 +1288,13 @@
         "deprecated": false, 
         "ecc": "01.02.22", 
         "name": {
-            "fr": "MUSIC:DANCE:ELECTRIC-HOUSE", 
-            "en": "MUSIC:DANCE:ELECTRIC-HOUSE", 
-            "nl": "MUSIC:DANCE:ELECTRIC-HOUSE", 
-            "pt": "MUSIC:DANCE:ELECTRIC-HOUSE", 
-            "de": "MUSIC:DANCE:ELECTRIC-HOUSE", 
-            "tr": "MUSIC:DANCE:ELECTRIC-HOUSE", 
-            "es": "MUSIC:DANCE:ELECTRIC-HOUSE"
+            "fr": "Electric house", 
+            "en": "Electric house", 
+            "nl": "Electric house", 
+            "pt": "Electric house", 
+            "de": "Electric house", 
+            "tr": "Electric house", 
+            "es": "House el\u00e9ctrica"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -1329,13 +1329,13 @@
         "deprecated": false, 
         "ecc": "01.16.04", 
         "name": {
-            "fr": "MUSIC:LOCAL:OTHER", 
-            "en": "MUSIC:LOCAL:OTHER", 
-            "nl": "MUSIC:LOCAL:OTHER", 
-            "pt": "MUSIC:LOCAL:OTHER", 
-            "de": "MUSIC:LOCAL:OTHER", 
-            "tr": "MUSIC:LOCAL:OTHER", 
-            "es": "MUSIC:LOCAL:OTHER"
+            "fr": "Autre", 
+            "en": "Other", 
+            "nl": "Anders", 
+            "pt": "Other", 
+            "de": "Weiteres", 
+            "tr": "Other", 
+            "es": "Otros"
         }, 
         "parent": "MUSIC:LOCAL"
     }, 
@@ -1343,13 +1343,13 @@
         "deprecated": false, 
         "ecc": "01.17.04", 
         "name": {
-            "fr": "MUSIC:PARTY:70s", 
-            "en": "MUSIC:PARTY:70s", 
-            "nl": "MUSIC:PARTY:70s", 
-            "pt": "MUSIC:PARTY:70s", 
-            "de": "MUSIC:PARTY:70s", 
-            "tr": "MUSIC:PARTY:70s", 
-            "es": "MUSIC:PARTY:70s"
+            "fr": "Ann\u00e9es 70", 
+            "en": "70s", 
+            "nl": "70s", 
+            "pt": "70s", 
+            "de": "70s", 
+            "tr": "70s", 
+            "es": "A\u00f1os 70"
         }, 
         "parent": "MUSIC:PARTY"
     }, 
@@ -1371,12 +1371,12 @@
         "ecc": "01.02.01", 
         "name": {
             "fr": "Acid", 
-            "en": "Acid", 
+            "en": "Acid House", 
             "nl": "Acid", 
-            "pt": "Acid", 
+            "pt": "Acid House", 
             "de": "Acid", 
-            "tr": "Acid", 
-            "es": "Acid"
+            "tr": "Acid House", 
+            "es": "Acid House"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -1385,11 +1385,11 @@
         "ecc": "01.14", 
         "name": {
             "fr": "Autre", 
-            "en": "Other", 
+            "en": "Other Music", 
             "nl": "Anders", 
-            "pt": "Other", 
+            "pt": "Other Music", 
             "de": "Anderes", 
-            "tr": "Other", 
+            "tr": "Other Music", 
             "es": "Otro"
         }, 
         "parent": "MUSIC"
@@ -1398,13 +1398,13 @@
         "deprecated": false, 
         "ecc": "06.01", 
         "name": {
-            "fr": "TELEVISION:SHOW", 
-            "en": "TELEVISION:SHOW", 
-            "nl": "TELEVISION:SHOW", 
-            "pt": "TELEVISION:SHOW", 
-            "de": "TELEVISION:SHOW", 
-            "tr": "TELEVISION:SHOW", 
-            "es": "TELEVISION:SHOW"
+            "fr": "Spectacle", 
+            "en": "Show", 
+            "nl": "Show", 
+            "pt": "Show", 
+            "de": "Show", 
+            "tr": "Show", 
+            "es": "Espect\u00e1culo"
         }, 
         "parent": "TELEVISION"
     }, 
@@ -1426,13 +1426,13 @@
         "deprecated": false, 
         "ecc": "01.21", 
         "name": {
-            "fr": "MUSIC:DISCO", 
-            "en": "MUSIC:DISCO", 
-            "nl": "MUSIC:DISCO", 
-            "pt": "MUSIC:DISCO", 
-            "de": "MUSIC:DISCO", 
-            "tr": "MUSIC:DISCO", 
-            "es": "MUSIC:DISCO"
+            "fr": "Disco", 
+            "en": "Disco", 
+            "nl": "Disco", 
+            "pt": "Disco", 
+            "de": "Disco", 
+            "tr": "Disco", 
+            "es": "Disco"
         }, 
         "parent": "MUSIC"
     }, 
@@ -1481,13 +1481,13 @@
         "deprecated": false, 
         "ecc": "01.02.21", 
         "name": {
-            "fr": "MUSIC:DANCE:DUBSTEP", 
-            "en": "MUSIC:DANCE:DUBSTEP", 
-            "nl": "MUSIC:DANCE:DUBSTEP", 
-            "pt": "MUSIC:DANCE:DUBSTEP", 
-            "de": "MUSIC:DANCE:DUBSTEP", 
-            "tr": "MUSIC:DANCE:DUBSTEP", 
-            "es": "MUSIC:DANCE:DUBSTEP"
+            "fr": "Dubsteb", 
+            "en": "Dubstep", 
+            "nl": "Dubstep", 
+            "pt": "Dubstep", 
+            "de": "Dubstep", 
+            "tr": "Dubstep", 
+            "es": "Dubstep"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -1495,13 +1495,13 @@
         "deprecated": false, 
         "ecc": "05.03", 
         "name": {
-            "fr": "FAIRS:ART", 
-            "en": "FAIRS:ART", 
-            "nl": "FAIRS:ART", 
-            "pt": "FAIRS:ART", 
-            "de": "FAIRS:ART", 
-            "tr": "FAIRS:ART", 
-            "es": "FAIRS:ART"
+            "fr": "Art", 
+            "en": "Art", 
+            "nl": "Kunst", 
+            "pt": "Art", 
+            "de": "Kunst", 
+            "tr": "Art", 
+            "es": "Arte"
         }, 
         "parent": "FAIRS"
     }, 
@@ -1523,13 +1523,13 @@
         "deprecated": false, 
         "ecc": "01.02.14", 
         "name": {
-            "fr": "MUSIC:DANCE:PROGRESSIVE-HOUSE", 
-            "en": "MUSIC:DANCE:PROGRESSIVE-HOUSE", 
-            "nl": "MUSIC:DANCE:PROGRESSIVE-HOUSE", 
-            "pt": "MUSIC:DANCE:PROGRESSIVE-HOUSE", 
-            "de": "MUSIC:DANCE:PROGRESSIVE-HOUSE", 
-            "tr": "MUSIC:DANCE:PROGRESSIVE-HOUSE", 
-            "es": "MUSIC:DANCE:PROGRESSIVE-HOUSE"
+            "fr": "Progressive House", 
+            "en": "Progressive House", 
+            "nl": "Progressive House", 
+            "pt": "Progressive House", 
+            "de": "Progressive House", 
+            "tr": "Progressive House", 
+            "es": "House progresivo"
         }, 
         "parent": "MUSIC:DANCE"
     }, 
@@ -1537,13 +1537,13 @@
         "deprecated": false, 
         "ecc": "01.02.10", 
         "name": {
-            "fr": "MUSIC:DANCE:CLASSIC-HOUSE", 
-            "en": "MUSIC:DANCE:CLASSIC-HOUSE", 
-            "nl": "MUSIC:DANCE:CLASSIC-HOUSE", 
-            "pt": "MUSIC:DANCE:CLASSIC-HOUSE", 
-            "de": "MUSIC:DANCE:CLASSIC-HOUSE", 
-            "tr": "MUSIC:DANCE:CLASSIC-HOUSE", 
-            "es": "MUSIC:DANCE:CLASSIC-HOUSE"
+            "fr": "Classic House", 
+            "en": "Classic House", 
+            "nl": "Classic House", 
+            "pt": "Classic House", 
+            "de": "Classic House", 
+            "tr": "Classic House", 
+            "es": "House cl\u00e1sico"
         }, 
         "parent": "MUSIC:DANCE"
     }
