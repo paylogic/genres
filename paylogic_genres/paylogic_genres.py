@@ -12,7 +12,7 @@ def _set_genre_cache():
 
 
 def convert_ecc_to_code(ecc):
-    return _GENRE_CACHE[:ecc]
+    return _GENRE_CACHE.inv[ecc]
 
 
 def convert_code_to_ecc(code):
